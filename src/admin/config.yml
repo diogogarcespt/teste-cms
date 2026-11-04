@@ -10,7 +10,7 @@ backend:
     deleteMedia: "Imagem apagada: {{path}}"
 
 locale: pt
-site_url: https://teste-cms.netlify.app
+site_url: https://teste-cms26.netlify.app
 media_folder: src/img/uploads
 public_folder: /img/uploads
 
