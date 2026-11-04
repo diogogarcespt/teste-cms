@@ -1,0 +1,62 @@
+backend:
+  name: github
+  repo: diogogarcespt/teste-cms
+  branch: main
+  commit_messages:
+    create: "Novo {{collection}}: {{slug}}"
+    update: "Atualizado {{collection}}: {{slug}}"
+    delete: "Apagado {{collection}}: {{slug}}"
+    uploadMedia: "Imagem carregada: {{path}}"
+    deleteMedia: "Imagem apagada: {{path}}"
+
+locale: pt
+site_url: https://teste-cms.netlify.app
+media_folder: src/img/uploads
+public_folder: /img/uploads
+
+collections:
+  - name: produtos
+    label: Produtos
+    label_singular: Produto
+    folder: src/produtos
+    create: true
+    slug: "{{slug}}"
+    extension: md
+    format: frontmatter
+    summary: "{{title}} (Ref. {{ref}})"
+    fields:
+      - { label: Nome, name: title, widget: string }
+      - { label: Referência, name: ref, widget: string }
+      - label: Gama
+        name: gama
+        widget: select
+        options: ["Tábuas de engomar", "Estendais", "Artigos de campo", "Opcionais"]
+      - { label: Descrição curta, name: descricao, widget: text }
+      - { label: Foto, name: imagem, widget: image, required: false }
+      - { label: Mostrar na página inicial, name: destaque, widget: boolean, default: false }
+      - { label: Dimensões do tampo, name: dimensoes, widget: string, required: false }
+      - { label: Peso, name: peso, widget: string, required: false }
+      - { label: Tubo, name: tubo, widget: string, required: false }
+      - { label: Alturas, name: alturas, widget: string, required: false }
+      - { label: Capa, name: capa, widget: string, required: false }
+      - { label: Código EAN, name: ean, widget: string, required: false }
+      - { label: Texto adicional, name: body, widget: markdown, required: false }
+
+  - name: paginas
+    label: Textos do site
+    files:
+      - label: Página inicial
+        name: inicio
+        file: src/_data/inicio.json
+        fields:
+          - { label: Título principal, name: titulo, widget: string }
+          - { label: Subtítulo, name: subtitulo, widget: text }
+          - { label: Texto "Fabrico próprio", name: sobre, widget: text }
+      - label: Contactos
+        name: site
+        file: src/_data/site.json
+        fields:
+          - { label: Nome da empresa, name: nome, widget: string }
+          - { label: Telefone, name: telefone, widget: string }
+          - { label: Email, name: email, widget: string }
+          - { label: Morada, name: morada, widget: string }
