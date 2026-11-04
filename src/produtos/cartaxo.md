@@ -3,7 +3,7 @@ title: Cartaxo
 ref: "124"
 gama: Tábuas de engomar
 descricao: Tábua com pousa ferro com silicones, taco anti-derrapante e tampo em rede.
-imagem: ""
+imagem: /img/uploads/124a1.jpg
 destaque: true
 dimensoes: 120 x 38 cm
 peso: 5,7 kg
