@@ -4,7 +4,7 @@ backend:
   branch: main
 
 locale: pt
-site_url: https://jocorsil-esboco.netlify.app
+site_url: https://jocorsil-demo.netlify.app
 media_folder: site/img/produtos
 public_folder: /img/produtos
 

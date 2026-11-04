@@ -6,6 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{{ titulo }} · Jocorsil</title>
   <meta name="description" content="{{ descricao }}">
+  <meta name="robots" content="noindex, nofollow">
   {%- for l in langs %}
   <link rel="alternate" hreflang="{{ l }}" href="{{ sub | url_lang(l) }}">
   {%- endfor %}
