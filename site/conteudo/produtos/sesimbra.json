@@ -1,0 +1,137 @@
+{
+  "pt": {
+    "nome": "Sesimbra",
+    "ref": "205",
+    "gama": "tabuas",
+    "descricao": "Tábua de engomar com pousa-ferro para caldeira a vapor e ferro tradicional, tacos anti-derrapantes e tampo em rede.",
+    "caracteristicas": [
+      {
+        "texto": "Para caldeira a vapor e ferro tradicional"
+      },
+      {
+        "texto": "Tacos anti-derrapantes"
+      },
+      {
+        "texto": "Tampo em rede"
+      }
+    ],
+    "imagem": "/img/produtos/sesimbra.jpg",
+    "galeria": [
+      {
+        "imagem": "/img/produtos/sesimbra-d1.jpg"
+      },
+      {
+        "imagem": "/img/produtos/sesimbra-d2.jpg"
+      },
+      {
+        "imagem": "/img/produtos/sesimbra-d3.jpg"
+      }
+    ],
+    "ean": "5605233001500",
+    "peso": "7 kg",
+    "tampo": "120 × 42 cm",
+    "tubo": "30 × 20 mm",
+    "alturas": "60 a 90 cm, manual, 4 posições",
+    "capa": "100% algodão + espuma",
+    "pousaferro": "Chapa pintada em epóxi",
+    "caixa": "44 × 7 × 150 cm",
+    "unidades_caixa": "1",
+    "unidades_palete": "24",
+    "palete": "120 × 80 × 160 cm",
+    "contentor20": "264",
+    "contentor40": "528",
+    "tir": "792",
+    "destaque": true,
+    "ordem": 13
+  },
+  "en": {
+    "nome": "Sesimbra",
+    "ref": "205",
+    "gama": "tabuas",
+    "descricao": "Ironing board with an iron rest for steam generators and traditional irons, non-slip feet and a mesh top.",
+    "caracteristicas": [
+      {
+        "texto": "For steam generators and traditional irons"
+      },
+      {
+        "texto": "Non-slip feet"
+      },
+      {
+        "texto": "Mesh top"
+      }
+    ],
+    "imagem": "/img/produtos/sesimbra.jpg",
+    "galeria": [
+      {
+        "imagem": "/img/produtos/sesimbra-d1.jpg"
+      },
+      {
+        "imagem": "/img/produtos/sesimbra-d2.jpg"
+      },
+      {
+        "imagem": "/img/produtos/sesimbra-d3.jpg"
+      }
+    ],
+    "ean": "5605233001500",
+    "peso": "7 kg",
+    "tampo": "120 × 42 cm",
+    "tubo": "30 × 20 mm",
+    "alturas": "60 to 90 cm, manual, 4 positions",
+    "capa": "100% cotton + foam",
+    "pousaferro": "Epoxy-painted steel",
+    "caixa": "44 × 7 × 150 cm",
+    "unidades_caixa": "1",
+    "unidades_palete": "24",
+    "palete": "120 × 80 × 160 cm",
+    "contentor20": "264",
+    "contentor40": "528",
+    "tir": "792",
+    "destaque": true,
+    "ordem": 13
+  },
+  "es": {
+    "nome": "Sesimbra",
+    "ref": "205",
+    "gama": "tabuas",
+    "descricao": "Tabla de planchar con posaplancha para centro de planchado y plancha tradicional, tacos antideslizantes y tablero de rejilla.",
+    "caracteristicas": [
+      {
+        "texto": "Para centro de planchado y plancha tradicional"
+      },
+      {
+        "texto": "Tacos antideslizantes"
+      },
+      {
+        "texto": "Tablero de rejilla"
+      }
+    ],
+    "imagem": "/img/produtos/sesimbra.jpg",
+    "galeria": [
+      {
+        "imagem": "/img/produtos/sesimbra-d1.jpg"
+      },
+      {
+        "imagem": "/img/produtos/sesimbra-d2.jpg"
+      },
+      {
+        "imagem": "/img/produtos/sesimbra-d3.jpg"
+      }
+    ],
+    "ean": "5605233001500",
+    "peso": "7 kg",
+    "tampo": "120 × 42 cm",
+    "tubo": "30 × 20 mm",
+    "alturas": "60 a 90 cm, manual, 4 posiciones",
+    "capa": "100% algodón + espuma",
+    "pousaferro": "Chapa pintada en epoxi",
+    "caixa": "44 × 7 × 150 cm",
+    "unidades_caixa": "1",
+    "unidades_palete": "24",
+    "palete": "120 × 80 × 160 cm",
+    "contentor20": "264",
+    "contentor40": "528",
+    "tir": "792",
+    "destaque": true,
+    "ordem": 13
+  }
+}

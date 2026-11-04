@@ -1,0 +1,66 @@
+---
+pagination: { data: langs, size: 1, alias: lang }
+permalink: "{{ '/empresa/' | url_lang(lang) }}"
+layout: base.njk
+sec: empresa
+sub: "/empresa/"
+eleventyComputed:
+  titulo: "{{ i18n.nav_empresa[lang] }}"
+  descricao: "{{ paginas.empresa[lang].introducao }}"
+---
+{%- set P = paginas.empresa[lang] -%}{%- set T = i18n -%}
+<div class="cabecalho">
+  <img src="/img/banners/letreiro.jpg" alt="" style="object-position:center 35%">
+  <div class="wrap">
+    <div class="eyebrow">{{ T.nav_empresa[lang] }} · 1986</div>
+    <h1 class="display">{{ P.titulo }}</h1>
+    <p>{{ P.introducao }}</p>
+  </div>
+</div>
+
+<div class="numeros"><div class="wrap">
+  {%- for n in paginas.inicio[lang].numeros %}<div class="n"><strong>{{ n.valor }}</strong><span>{{ n.texto }}</span></div>{% endfor -%}
+</div></div>
+
+<section>
+  <div class="wrap intro-empresa">
+    <div>
+      <div class="eyebrow navy">1986 — 2026</div>
+      <h2 class="display">{{ P.historia_titulo }}</h2>
+      <p>{{ P.historia }}</p>
+    </div>
+    <div class="foto-larga"><img src="/img/banners/linha-producao.jpg" alt=""></div>
+  </div>
+</section>
+
+<section style="background:var(--paper)">
+  <div class="wrap intro-empresa">
+    <div class="galeria-fabrica">
+      <div class="g"><img src="/img/banners/pousa-ferro.jpg" alt=""></div>
+      <div><img src="/img/fabrica/operario-prensa.jpg" alt=""></div>
+      <div><img src="/img/fabrica/maquinas.jpg" alt=""></div>
+      <div style="grid-column:span 2"><img src="/img/fabrica/operario-maquina.jpg" alt=""></div>
+    </div>
+    <div>
+      <div class="eyebrow navy">{{ T.nav_empresa[lang] }}</div>
+      <h2 class="display">{{ P.fabrico_titulo }}</h2>
+      <p>{{ P.fabrico }}</p>
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="wrap">
+    <div class="valores">
+      {%- for v in P.valores %}<div class="valor"><span class="ic">0{{ loop.index }}</span><b>{{ v.titulo }}</b><span>{{ v.texto }}</span></div>{% endfor -%}
+    </div>
+  </div>
+</section>
+
+<div class="faixa">
+  <img src="/img/banners/rede-tampo.jpg" alt="">
+  <div class="wrap">
+    <div><h2 class="display">{{ paginas.inicio[lang].faixa_titulo }}</h2><p>{{ paginas.inicio[lang].faixa_texto }}</p></div>
+    <div class="acoes"><a class="btn btn-branco" href="{{ '/contactos/' | url_lang(lang) }}">{{ T.pedir_orcamento[lang] }}</a><a class="btn btn-linha" href="{{ '/produtos/' | url_lang(lang) }}">{{ T.ver_produtos[lang] }}</a></div>
+  </div>
+</div>

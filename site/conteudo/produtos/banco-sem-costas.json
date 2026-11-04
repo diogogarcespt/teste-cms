@@ -1,0 +1,137 @@
+{
+  "pt": {
+    "nome": "Banco sem Costas",
+    "ref": "110",
+    "gama": "campo",
+    "descricao": "Banco sem costas, prático, fácil de montar e de arrumar.",
+    "caracteristicas": [
+      {
+        "texto": "Dobrável e fácil de guardar"
+      },
+      {
+        "texto": "Tacos anti-derrapantes"
+      },
+      {
+        "texto": "Fácil de montar"
+      }
+    ],
+    "imagem": "/img/produtos/banco-sem-costas.jpg",
+    "galeria": [
+      {
+        "imagem": "/img/produtos/banco-sem-costas-d1.jpg"
+      },
+      {
+        "imagem": "/img/produtos/banco-sem-costas-d2.jpg"
+      },
+      {
+        "imagem": "/img/produtos/banco-sem-costas-d3.jpg"
+      }
+    ],
+    "ean": "5605233000107",
+    "peso": "1 kg",
+    "tampo": "",
+    "tubo": "Ø 16 × 0,8 mm",
+    "alturas": "",
+    "capa": "",
+    "pousaferro": "",
+    "caixa": "",
+    "unidades_caixa": "",
+    "unidades_palete": "",
+    "palete": "",
+    "contentor20": "",
+    "contentor40": "",
+    "tir": "",
+    "destaque": false,
+    "ordem": 28
+  },
+  "en": {
+    "nome": "Backless stool",
+    "ref": "110",
+    "gama": "campo",
+    "descricao": "Practical backless stool, easy to assemble and store.",
+    "caracteristicas": [
+      {
+        "texto": "Foldable and easy to store"
+      },
+      {
+        "texto": "Non-slip feet"
+      },
+      {
+        "texto": "Easy to assemble"
+      }
+    ],
+    "imagem": "/img/produtos/banco-sem-costas.jpg",
+    "galeria": [
+      {
+        "imagem": "/img/produtos/banco-sem-costas-d1.jpg"
+      },
+      {
+        "imagem": "/img/produtos/banco-sem-costas-d2.jpg"
+      },
+      {
+        "imagem": "/img/produtos/banco-sem-costas-d3.jpg"
+      }
+    ],
+    "ean": "5605233000107",
+    "peso": "1 kg",
+    "tampo": "",
+    "tubo": "Ø 16 × 0,8 mm",
+    "alturas": "",
+    "capa": "",
+    "pousaferro": "",
+    "caixa": "",
+    "unidades_caixa": "",
+    "unidades_palete": "",
+    "palete": "",
+    "contentor20": "",
+    "contentor40": "",
+    "tir": "",
+    "destaque": false,
+    "ordem": 28
+  },
+  "es": {
+    "nome": "Taburete sin respaldo",
+    "ref": "110",
+    "gama": "campo",
+    "descricao": "Taburete sin respaldo, práctico, fácil de montar y guardar.",
+    "caracteristicas": [
+      {
+        "texto": "Plegable y fácil de guardar"
+      },
+      {
+        "texto": "Tacos antideslizantes"
+      },
+      {
+        "texto": "Fácil de montar"
+      }
+    ],
+    "imagem": "/img/produtos/banco-sem-costas.jpg",
+    "galeria": [
+      {
+        "imagem": "/img/produtos/banco-sem-costas-d1.jpg"
+      },
+      {
+        "imagem": "/img/produtos/banco-sem-costas-d2.jpg"
+      },
+      {
+        "imagem": "/img/produtos/banco-sem-costas-d3.jpg"
+      }
+    ],
+    "ean": "5605233000107",
+    "peso": "1 kg",
+    "tampo": "",
+    "tubo": "Ø 16 × 0,8 mm",
+    "alturas": "",
+    "capa": "",
+    "pousaferro": "",
+    "caixa": "",
+    "unidades_caixa": "",
+    "unidades_palete": "",
+    "palete": "",
+    "contentor20": "",
+    "contentor40": "",
+    "tir": "",
+    "destaque": false,
+    "ordem": 28
+  }
+}

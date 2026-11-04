@@ -1,0 +1,137 @@
+{
+  "pt": {
+    "nome": "Sevilha",
+    "ref": "160",
+    "gama": "tabuas",
+    "descricao": "Tábua de engomar com pousa-ferro metálico com silicones, tacos anti-derrapantes e tampo metálico perfurado.",
+    "caracteristicas": [
+      {
+        "texto": "Pousa-ferro metálico com silicones"
+      },
+      {
+        "texto": "Tacos anti-derrapantes"
+      },
+      {
+        "texto": "Tampo metálico perfurado"
+      }
+    ],
+    "imagem": "/img/produtos/sevilha.jpg",
+    "galeria": [
+      {
+        "imagem": "/img/produtos/sevilha-d1.jpg"
+      },
+      {
+        "imagem": "/img/produtos/sevilha-d2.jpg"
+      },
+      {
+        "imagem": "/img/produtos/sevilha-d3.jpg"
+      }
+    ],
+    "ean": "5605233001708",
+    "peso": "5,1 kg",
+    "tampo": "110 × 32 cm",
+    "tubo": "Ø 22 × 0,7 mm",
+    "alturas": "60 / 90 cm",
+    "capa": "",
+    "pousaferro": "",
+    "caixa": "",
+    "unidades_caixa": "",
+    "unidades_palete": "",
+    "palete": "",
+    "contentor20": "",
+    "contentor40": "",
+    "tir": "",
+    "destaque": false,
+    "ordem": 8
+  },
+  "en": {
+    "nome": "Sevilha",
+    "ref": "160",
+    "gama": "tabuas",
+    "descricao": "Ironing board with a metal iron rest with silicone pads, non-slip feet and a perforated metal top.",
+    "caracteristicas": [
+      {
+        "texto": "Metal iron rest with silicone pads"
+      },
+      {
+        "texto": "Non-slip feet"
+      },
+      {
+        "texto": "Perforated metal top"
+      }
+    ],
+    "imagem": "/img/produtos/sevilha.jpg",
+    "galeria": [
+      {
+        "imagem": "/img/produtos/sevilha-d1.jpg"
+      },
+      {
+        "imagem": "/img/produtos/sevilha-d2.jpg"
+      },
+      {
+        "imagem": "/img/produtos/sevilha-d3.jpg"
+      }
+    ],
+    "ean": "5605233001708",
+    "peso": "5,1 kg",
+    "tampo": "110 × 32 cm",
+    "tubo": "Ø 22 × 0,7 mm",
+    "alturas": "60 / 90 cm",
+    "capa": "",
+    "pousaferro": "",
+    "caixa": "",
+    "unidades_caixa": "",
+    "unidades_palete": "",
+    "palete": "",
+    "contentor20": "",
+    "contentor40": "",
+    "tir": "",
+    "destaque": false,
+    "ordem": 8
+  },
+  "es": {
+    "nome": "Sevilha",
+    "ref": "160",
+    "gama": "tabuas",
+    "descricao": "Tabla de planchar con posaplancha metálico con silicona, tacos antideslizantes y tablero metálico perforado.",
+    "caracteristicas": [
+      {
+        "texto": "Posaplancha metálico con silicona"
+      },
+      {
+        "texto": "Tacos antideslizantes"
+      },
+      {
+        "texto": "Tablero metálico perforado"
+      }
+    ],
+    "imagem": "/img/produtos/sevilha.jpg",
+    "galeria": [
+      {
+        "imagem": "/img/produtos/sevilha-d1.jpg"
+      },
+      {
+        "imagem": "/img/produtos/sevilha-d2.jpg"
+      },
+      {
+        "imagem": "/img/produtos/sevilha-d3.jpg"
+      }
+    ],
+    "ean": "5605233001708",
+    "peso": "5,1 kg",
+    "tampo": "110 × 32 cm",
+    "tubo": "Ø 22 × 0,7 mm",
+    "alturas": "60 / 90 cm",
+    "capa": "",
+    "pousaferro": "",
+    "caixa": "",
+    "unidades_caixa": "",
+    "unidades_palete": "",
+    "palete": "",
+    "contentor20": "",
+    "contentor40": "",
+    "tir": "",
+    "destaque": false,
+    "ordem": 8
+  }
+}

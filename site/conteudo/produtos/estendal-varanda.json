@@ -1,0 +1,119 @@
+{
+  "pt": {
+    "nome": "Estendal Varanda",
+    "ref": "307",
+    "gama": "estendais",
+    "descricao": "Estendal de varanda ajustável, com braço de apoio.",
+    "caracteristicas": [
+      {
+        "texto": "Estendal ajustável"
+      },
+      {
+        "texto": "Braço de apoio ajustável"
+      }
+    ],
+    "imagem": "/img/produtos/estendal-varanda.jpg",
+    "galeria": [
+      {
+        "imagem": "/img/produtos/estendal-varanda-d1.jpg"
+      },
+      {
+        "imagem": "/img/produtos/estendal-varanda-d2.jpg"
+      }
+    ],
+    "ean": "5605233020594",
+    "peso": "1,3 kg",
+    "tampo": "",
+    "tubo": "Ø 13 × 0,6 mm",
+    "alturas": "",
+    "capa": "",
+    "pousaferro": "",
+    "caixa": "",
+    "unidades_caixa": "",
+    "unidades_palete": "",
+    "palete": "",
+    "contentor20": "",
+    "contentor40": "",
+    "tir": "",
+    "destaque": false,
+    "ordem": 23
+  },
+  "en": {
+    "nome": "Balcony dryer",
+    "ref": "307",
+    "gama": "estendais",
+    "descricao": "Adjustable balcony clothes dryer with a support arm.",
+    "caracteristicas": [
+      {
+        "texto": "Adjustable dryer"
+      },
+      {
+        "texto": "Adjustable support arm"
+      }
+    ],
+    "imagem": "/img/produtos/estendal-varanda.jpg",
+    "galeria": [
+      {
+        "imagem": "/img/produtos/estendal-varanda-d1.jpg"
+      },
+      {
+        "imagem": "/img/produtos/estendal-varanda-d2.jpg"
+      }
+    ],
+    "ean": "5605233020594",
+    "peso": "1,3 kg",
+    "tampo": "",
+    "tubo": "Ø 13 × 0,6 mm",
+    "alturas": "",
+    "capa": "",
+    "pousaferro": "",
+    "caixa": "",
+    "unidades_caixa": "",
+    "unidades_palete": "",
+    "palete": "",
+    "contentor20": "",
+    "contentor40": "",
+    "tir": "",
+    "destaque": false,
+    "ordem": 23
+  },
+  "es": {
+    "nome": "Tendedero de balcón",
+    "ref": "307",
+    "gama": "estendais",
+    "descricao": "Tendedero de balcón ajustable, con brazo de apoyo.",
+    "caracteristicas": [
+      {
+        "texto": "Tendedero ajustable"
+      },
+      {
+        "texto": "Brazo de apoyo ajustable"
+      }
+    ],
+    "imagem": "/img/produtos/estendal-varanda.jpg",
+    "galeria": [
+      {
+        "imagem": "/img/produtos/estendal-varanda-d1.jpg"
+      },
+      {
+        "imagem": "/img/produtos/estendal-varanda-d2.jpg"
+      }
+    ],
+    "ean": "5605233020594",
+    "peso": "1,3 kg",
+    "tampo": "",
+    "tubo": "Ø 13 × 0,6 mm",
+    "alturas": "",
+    "capa": "",
+    "pousaferro": "",
+    "caixa": "",
+    "unidades_caixa": "",
+    "unidades_palete": "",
+    "palete": "",
+    "contentor20": "",
+    "contentor40": "",
+    "tir": "",
+    "destaque": false,
+    "ordem": 23
+  }
+}

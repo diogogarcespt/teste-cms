@@ -1,0 +1,81 @@
+---
+pagination: { data: langs, size: 1, alias: lang }
+permalink: "{{ '/' | url_lang(lang) }}"
+layout: base.njk
+sec: inicio
+sub: "/"
+eleventyComputed:
+  titulo: "{{ paginas.inicio[lang].titulo }}"
+  descricao: "{{ paginas.inicio[lang].subtitulo }}"
+---
+{%- set P = paginas.inicio[lang] -%}{%- set T = i18n -%}
+<section class="hero" style="padding:0">
+  <img src="/img/banners/linha-producao.jpg" alt="">
+  <div class="wrap">
+    <div class="eyebrow">{{ P.etiqueta }}</div>
+    <h1 class="display">{{ P.titulo }}</h1>
+    <p>{{ P.subtitulo }}</p>
+    <div class="acoes">
+      <a class="btn btn-branco" href="{{ '/produtos/' | url_lang(lang) }}">{{ T.ver_produtos[lang] }} →</a>
+      <a class="btn btn-linha" href="{{ '/contactos/' | url_lang(lang) }}?assunto=catalogo">{{ T.pedir_catalogo[lang] }}</a>
+    </div>
+  </div>
+</section>
+
+<div class="numeros"><div class="wrap">
+  {%- for n in P.numeros %}<div class="n"><strong>{{ n.valor }}</strong><span>{{ n.texto }}</span></div>{% endfor -%}
+</div></div>
+
+<section>
+  <div class="wrap">
+    <div class="cab">
+      <div><div class="eyebrow navy">{{ T.nav_produtos[lang] }}</div><h2 class="display">{{ P.gamas_titulo }}</h2></div>
+      <p>{{ P.gamas_texto }}</p>
+    </div>
+    <div class="gamas">
+      {%- for g in gamas %}
+      <a class="gama" href="{{ '/produtos/' | url_lang(lang) }}#{{ g.id }}"><div class="img"><img src="{{ g.imagem }}" alt="{{ g.nome[lang] }}"></div><div class="txt"><div><h3>{{ g.nome[lang] }}</h3><small>{{ g.sub[lang] }}</small></div><span class="seta">→</span></div></a>
+      {%- endfor %}
+    </div>
+  </div>
+</section>
+
+<section class="destaques">
+  <div class="wrap">
+    <div class="cab">
+      <div><div class="eyebrow navy">{{ T.em_destaque[lang] }}</div><h2 class="display">{{ P.destaques_titulo }}</h2></div>
+      <p>{{ P.destaques_texto }}</p>
+    </div>
+    <div class="produtos">
+      {%- set chips = true -%}
+      {%- for item in produtos %}{% if item[lang].destaque %}{% include "cartao.njk" %}{% endif %}{% endfor -%}
+    </div>
+    <div class="ver-todos"><a class="btn btn-navy" href="{{ '/produtos/' | url_lang(lang) }}">{{ T.ver_todos[lang] }} →</a></div>
+  </div>
+</section>
+
+<section class="fabrico">
+  <div class="wrap grid">
+    <div>
+      <div class="eyebrow navy">{{ T.nav_empresa[lang] }}</div>
+      <h2 class="display">{{ P.fabrico_titulo }}</h2>
+      <p class="lead">{{ P.fabrico_texto }}</p>
+      <ul class="pontos">
+        {%- for pt in P.pontos %}<li><span class="ic">0{{ loop.index }}</span><div><b>{{ pt.titulo }}</b><span>{{ pt.texto }}</span></div></li>{% endfor -%}
+      </ul>
+    </div>
+    <div class="mosaico">
+      <div class="grande"><img src="/img/banners/pousa-ferro.jpg" alt=""></div>
+      <div class="peq"><img src="/img/fabrica/operario-prensa.jpg" alt=""></div>
+      <div class="peq"><img src="/img/fabrica/maquinas.jpg" alt=""></div>
+    </div>
+  </div>
+</section>
+
+<div class="faixa">
+  <img src="/img/banners/rede-tampo.jpg" alt="">
+  <div class="wrap">
+    <div><h2 class="display">{{ P.faixa_titulo }}</h2><p>{{ P.faixa_texto }}</p></div>
+    <div class="acoes"><a class="btn btn-branco" href="{{ '/contactos/' | url_lang(lang) }}">{{ T.pedir_orcamento[lang] }}</a><a class="btn btn-linha" href="tel:+351256911414">{{ site.telefone }}</a></div>
+  </div>
+</div>

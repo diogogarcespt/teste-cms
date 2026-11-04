@@ -1,0 +1,137 @@
+{
+  "pt": {
+    "nome": "Viana Modelo 1",
+    "ref": "201",
+    "gama": "tabuas",
+    "descricao": "Tábua de engomar com pousa-ferro metálico com silicones, tacos anti-derrapantes e tampo metálico perfurado.",
+    "caracteristicas": [
+      {
+        "texto": "Pousa-ferro metálico com silicones"
+      },
+      {
+        "texto": "Tacos anti-derrapantes"
+      },
+      {
+        "texto": "Tampo metálico perfurado"
+      }
+    ],
+    "imagem": "/img/produtos/viana-1.jpg",
+    "galeria": [
+      {
+        "imagem": "/img/produtos/viana-1-d1.jpg"
+      },
+      {
+        "imagem": "/img/produtos/viana-1-d2.jpg"
+      },
+      {
+        "imagem": "/img/produtos/viana-1-d3.jpg"
+      }
+    ],
+    "ean": "5605233020051",
+    "peso": "6,5 kg",
+    "tampo": "120 × 36 cm",
+    "tubo": "30 × 20 mm",
+    "alturas": "60 / 90 cm",
+    "capa": "",
+    "pousaferro": "",
+    "caixa": "",
+    "unidades_caixa": "",
+    "unidades_palete": "",
+    "palete": "",
+    "contentor20": "",
+    "contentor40": "",
+    "tir": "",
+    "destaque": false,
+    "ordem": 10
+  },
+  "en": {
+    "nome": "Viana Modelo 1",
+    "ref": "201",
+    "gama": "tabuas",
+    "descricao": "Ironing board with a metal iron rest with silicone pads, non-slip feet and a perforated metal top.",
+    "caracteristicas": [
+      {
+        "texto": "Metal iron rest with silicone pads"
+      },
+      {
+        "texto": "Non-slip feet"
+      },
+      {
+        "texto": "Perforated metal top"
+      }
+    ],
+    "imagem": "/img/produtos/viana-1.jpg",
+    "galeria": [
+      {
+        "imagem": "/img/produtos/viana-1-d1.jpg"
+      },
+      {
+        "imagem": "/img/produtos/viana-1-d2.jpg"
+      },
+      {
+        "imagem": "/img/produtos/viana-1-d3.jpg"
+      }
+    ],
+    "ean": "5605233020051",
+    "peso": "6,5 kg",
+    "tampo": "120 × 36 cm",
+    "tubo": "30 × 20 mm",
+    "alturas": "60 / 90 cm",
+    "capa": "",
+    "pousaferro": "",
+    "caixa": "",
+    "unidades_caixa": "",
+    "unidades_palete": "",
+    "palete": "",
+    "contentor20": "",
+    "contentor40": "",
+    "tir": "",
+    "destaque": false,
+    "ordem": 10
+  },
+  "es": {
+    "nome": "Viana Modelo 1",
+    "ref": "201",
+    "gama": "tabuas",
+    "descricao": "Tabla de planchar con posaplancha metálico con silicona, tacos antideslizantes y tablero metálico perforado.",
+    "caracteristicas": [
+      {
+        "texto": "Posaplancha metálico con silicona"
+      },
+      {
+        "texto": "Tacos antideslizantes"
+      },
+      {
+        "texto": "Tablero metálico perforado"
+      }
+    ],
+    "imagem": "/img/produtos/viana-1.jpg",
+    "galeria": [
+      {
+        "imagem": "/img/produtos/viana-1-d1.jpg"
+      },
+      {
+        "imagem": "/img/produtos/viana-1-d2.jpg"
+      },
+      {
+        "imagem": "/img/produtos/viana-1-d3.jpg"
+      }
+    ],
+    "ean": "5605233020051",
+    "peso": "6,5 kg",
+    "tampo": "120 × 36 cm",
+    "tubo": "30 × 20 mm",
+    "alturas": "60 / 90 cm",
+    "capa": "",
+    "pousaferro": "",
+    "caixa": "",
+    "unidades_caixa": "",
+    "unidades_palete": "",
+    "palete": "",
+    "contentor20": "",
+    "contentor40": "",
+    "tir": "",
+    "destaque": false,
+    "ordem": 10
+  }
+}

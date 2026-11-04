@@ -1,0 +1,67 @@
+{%- set T = i18n -%}
+<!doctype html>
+<html lang="{{ lang }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ titulo }} · Jocorsil</title>
+  <meta name="description" content="{{ descricao }}">
+  {%- for l in langs %}
+  <link rel="alternate" hreflang="{{ l }}" href="{{ sub | url_lang(l) }}">
+  {%- endfor %}
+  <link rel="preload" href="/assets/fonts/archivo-latin-wght-normal.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="stylesheet" href="/assets/estilo.css">
+  <link rel="icon" href="/img/logo.svg">
+</head>
+<body>
+  <div class="aviso-esboco">{{ T.esboco[lang] }}</div>
+  <header class="topo">
+    <div class="wrap">
+      <a class="logo" href="{{ '/' | url_lang(lang) }}"><img src="/img/logo.svg" alt="Jocorsil — Qualidade em sua casa"></a>
+      <nav class="menu">
+        <a {% if sec == 'inicio' %}class="ativo"{% endif %} href="{{ '/' | url_lang(lang) }}">{{ T.nav_inicio[lang] }}</a>
+        <a {% if sec == 'empresa' %}class="ativo"{% endif %} href="{{ '/empresa/' | url_lang(lang) }}">{{ T.nav_empresa[lang] }}</a>
+        <a {% if sec == 'produtos' %}class="ativo"{% endif %} href="{{ '/produtos/' | url_lang(lang) }}">{{ T.nav_produtos[lang] }}</a>
+        <a {% if sec == 'contactos' %}class="ativo"{% endif %} href="{{ '/contactos/' | url_lang(lang) }}">{{ T.nav_contactos[lang] }}</a>
+      </nav>
+      <div class="linguas">
+        {%- for l in langs %}<a {% if l == lang %}class="ativo"{% endif %} href="{{ sub | url_lang(l) }}" hreflang="{{ l }}">{{ l | upper }}</a>{% endfor -%}
+      </div>
+      <a class="btn btn-navy" href="{{ '/contactos/' | url_lang(lang) }}">{{ T.pedir_orcamento[lang] }}</a>
+      <button class="burger" aria-label="{{ T.menu[lang] }}" onclick="document.querySelector('.menu-movel').classList.toggle('aberto')">☰</button>
+    </div>
+    <nav class="menu-movel">
+      <a href="{{ '/' | url_lang(lang) }}">{{ T.nav_inicio[lang] }}</a>
+      <a href="{{ '/empresa/' | url_lang(lang) }}">{{ T.nav_empresa[lang] }}</a>
+      <a href="{{ '/produtos/' | url_lang(lang) }}">{{ T.nav_produtos[lang] }}</a>
+      <a href="{{ '/contactos/' | url_lang(lang) }}">{{ T.nav_contactos[lang] }}</a>
+      <a class="btn btn-navy" href="{{ '/contactos/' | url_lang(lang) }}">{{ T.pedir_orcamento[lang] }}</a>
+    </nav>
+  </header>
+
+  <main>{{ content | safe }}</main>
+
+  <footer>
+    <div class="wrap">
+      <div class="grid">
+        <div class="marca"><img src="/img/logo.svg" alt="Jocorsil"><p>{{ site.empresa }} {{ T.rodape_desc[lang] }}</p></div>
+        <div><h4>{{ T.nav_produtos[lang] }}</h4><ul>
+          {%- for g in gamas %}<li><a href="{{ '/produtos/' | url_lang(lang) }}#{{ g.id }}">{{ g.nome[lang] }}</a></li>{% endfor -%}
+        </ul></div>
+        <div><h4>{{ T.nav_empresa[lang] }}</h4><ul>
+          <li><a href="{{ '/empresa/' | url_lang(lang) }}">{{ T.nav_empresa[lang] }}</a></li>
+          <li><a href="{{ '/contactos/' | url_lang(lang) }}?assunto=catalogo">{{ T.pedir_catalogo[lang] }}</a></li>
+          <li><a href="{{ '/contactos/' | url_lang(lang) }}">{{ T.nav_contactos[lang] }}</a></li>
+        </ul></div>
+        <div><h4>{{ T.nav_contactos[lang] }}</h4><ul>
+          <li><a href="tel:+351256911414">{{ site.telefone }}</a></li>
+          <li><a href="tel:+351919551430">{{ site.telemovel }}</a></li>
+          <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+          <li>{{ site.morada }}<br>{{ site.codigo_postal }}</li>
+        </ul></div>
+      </div>
+      <div class="base"><span>© 2026 {{ site.empresa }} {{ T.direitos[lang] }}</span><span>{{ T.privacidade[lang] }} · <a href="https://www.livroreclamacoes.pt" target="_blank" rel="noopener">{{ T.reclamacoes[lang] }}</a></span></div>
+    </div>
+  </footer>
+</body>
+</html>

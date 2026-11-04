@@ -1,0 +1,58 @@
+---
+pagination: { data: langs, size: 1, alias: lang }
+permalink: "{{ '/produtos/' | url_lang(lang) }}"
+layout: base.njk
+sec: produtos
+sub: "/produtos/"
+eleventyComputed:
+  titulo: "{{ i18n.nav_produtos[lang] }}"
+  descricao: "{{ paginas.inicio[lang].gamas_texto }}"
+---
+{%- set T = i18n -%}
+<div class="cabecalho">
+  <img src="/img/banners/rede-tampo.jpg" alt="">
+  <div class="wrap">
+    <div class="eyebrow">{{ produtos.length }} {{ T.produtos_n[lang] }}</div>
+    <h1 class="display">{{ T.nav_produtos[lang] }}</h1>
+    <p>{{ paginas.inicio[lang].gamas_texto }}</p>
+  </div>
+</div>
+<section style="padding-top:40px">
+  <div class="wrap">
+    <div class="barra">
+      <div class="filtros">
+        <button class="ativo" data-f="todos">{{ T.todos[lang] }}<span>{{ produtos.length }}</span></button>
+        {%- for g in gamas %}
+        <button data-f="{{ g.id }}">{{ g.nome[lang] }}<span>{{ produtos | contar_gama(lang, g.id) }}</span></button>
+        {%- endfor %}
+      </div>
+      <label class="pesquisa"><input type="search" placeholder="{{ T.pesquisar[lang] }}" aria-label="{{ T.pesquisar[lang] }}"></label>
+    </div>
+    <div class="grelha" id="grelha">
+      {%- for item in produtos %}{% include "cartao.njk" %}{% endfor -%}
+    </div>
+    <p class="vazio" id="vazio" hidden>{{ T.sem_resultados[lang] }}</p>
+  </div>
+</section>
+<script>
+(() => {
+  const bts = [...document.querySelectorAll('.filtros button')];
+  const campo = document.querySelector('.pesquisa input');
+  const cartoes = [...document.querySelectorAll('#grelha .produto')];
+  let filtro = 'todos';
+  function aplicar() {
+    const q = campo.value.trim().toLowerCase();
+    let n = 0;
+    cartoes.forEach(c => {
+      const ok = (filtro === 'todos' || c.dataset.gama === filtro) && (!q || c.dataset.busca.includes(q));
+      c.hidden = !ok; if (ok) n++;
+    });
+    document.getElementById('vazio').hidden = n > 0;
+    bts.forEach(b => b.classList.toggle('ativo', b.dataset.f === filtro));
+  }
+  bts.forEach(b => b.addEventListener('click', () => { filtro = b.dataset.f; history.replaceState(null, '', filtro === 'todos' ? location.pathname : '#' + filtro); aplicar(); }));
+  campo.addEventListener('input', aplicar);
+  const h = location.hash.slice(1); if (bts.some(b => b.dataset.f === h)) filtro = h;
+  aplicar();
+})();
+</script>

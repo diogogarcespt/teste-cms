@@ -1,0 +1,137 @@
+{
+  "pt": {
+    "etiqueta": "Fabricante desde 1986 · Caldas de São Jorge",
+    "titulo": "Tábuas de engomar fabricadas em Portugal.",
+    "subtitulo": "Há mais de 35 anos que desenhamos e produzimos tábuas de engomar, estendais e artigos de campo na nossa fábrica, para o mercado nacional e internacional.",
+    "gamas_titulo": "Feito para durar, dentro e fora de casa.",
+    "gamas_texto": "Do tampo em rede ao pousa-ferro para caldeira a vapor, cada modelo é pensado para o uso diário.",
+    "destaques_titulo": "Alguns dos nossos modelos",
+    "destaques_texto": "Cada produto tem ficha técnica completa, com medidas, peso e dados logísticos.",
+    "fabrico_titulo": "Da chapa de aço à tábua pronta.",
+    "fabrico_texto": "Na José Correia da Silva, Lda. controlamos todo o processo na nossa fábrica, em Caldas de São Jorge.",
+    "pontos": [
+      {
+        "titulo": "Produção em Portugal",
+        "texto": "Desenhamos e produzimos cada modelo na nossa fábrica."
+      },
+      {
+        "titulo": "Materiais pensados para durar",
+        "texto": "Estrutura em tubo de aço, pintura em epóxi e capas em algodão."
+      },
+      {
+        "titulo": "Resposta a lojas e distribuidores",
+        "texto": "Fichas técnicas com código EAN, paletização e cargas para contentor."
+      }
+    ],
+    "faixa_titulo": "Procura um fornecedor de tábuas de engomar?",
+    "faixa_texto": "Enviamos o catálogo completo e as condições para lojas e distribuidores, em Portugal e no estrangeiro.",
+    "numeros": [
+      {
+        "valor": "1986",
+        "texto": "Ano de fundação"
+      },
+      {
+        "valor": "+35 anos",
+        "texto": "De experiência no fabrico"
+      },
+      {
+        "valor": "100%",
+        "texto": "Fabrico próprio"
+      },
+      {
+        "valor": "4 línguas",
+        "texto": "Catálogo em PT, ES, FR e EN"
+      }
+    ]
+  },
+  "en": {
+    "etiqueta": "Manufacturer since 1986 · Caldas de São Jorge, Portugal",
+    "titulo": "Ironing boards made in Portugal.",
+    "subtitulo": "For over 35 years we have designed and produced ironing boards, clothes dryers and camping furniture in our own factory, for the Portuguese and international markets.",
+    "gamas_titulo": "Built to last, indoors and outdoors.",
+    "gamas_texto": "From mesh tops to iron rests for steam generators, every model is designed for everyday use.",
+    "destaques_titulo": "Some of our models",
+    "destaques_texto": "Every product has a full technical sheet with dimensions, weight and logistics data.",
+    "fabrico_titulo": "From steel sheet to finished board.",
+    "fabrico_texto": "At José Correia da Silva, Lda. we control the whole process in our factory in Caldas de São Jorge.",
+    "pontos": [
+      {
+        "titulo": "Made in Portugal",
+        "texto": "We design and produce every model in our own factory."
+      },
+      {
+        "titulo": "Materials built to last",
+        "texto": "Steel tube frames, epoxy paint and cotton covers."
+      },
+      {
+        "titulo": "Ready for retailers and distributors",
+        "texto": "Technical sheets with EAN codes, palletising and container loads."
+      }
+    ],
+    "faixa_titulo": "Looking for an ironing board supplier?",
+    "faixa_texto": "We send our full catalogue and trade terms to retailers and distributors in Portugal and abroad.",
+    "numeros": [
+      {
+        "valor": "1986",
+        "texto": "Year founded"
+      },
+      {
+        "valor": "35+ years",
+        "texto": "Of manufacturing experience"
+      },
+      {
+        "valor": "100%",
+        "texto": "In-house production"
+      },
+      {
+        "valor": "4 languages",
+        "texto": "Catalogue in PT, ES, FR and EN"
+      }
+    ]
+  },
+  "es": {
+    "etiqueta": "Fabricante desde 1986 · Caldas de São Jorge, Portugal",
+    "titulo": "Tablas de planchar fabricadas en Portugal.",
+    "subtitulo": "Desde hace más de 35 años diseñamos y producimos tablas de planchar, tendederos y artículos de camping en nuestra fábrica, para el mercado nacional e internacional.",
+    "gamas_titulo": "Hecho para durar, dentro y fuera de casa.",
+    "gamas_texto": "Del tablero de rejilla al posaplancha para centro de planchado, cada modelo está pensado para el uso diario.",
+    "destaques_titulo": "Algunos de nuestros modelos",
+    "destaques_texto": "Cada producto tiene una ficha técnica completa, con medidas, peso y datos logísticos.",
+    "fabrico_titulo": "De la chapa de acero a la tabla terminada.",
+    "fabrico_texto": "En José Correia da Silva, Lda. controlamos todo el proceso en nuestra fábrica de Caldas de São Jorge.",
+    "pontos": [
+      {
+        "titulo": "Fabricado en Portugal",
+        "texto": "Diseñamos y producimos cada modelo en nuestra propia fábrica."
+      },
+      {
+        "titulo": "Materiales pensados para durar",
+        "texto": "Estructura de tubo de acero, pintura epoxi y fundas de algodón."
+      },
+      {
+        "titulo": "Preparados para tiendas y distribuidores",
+        "texto": "Fichas técnicas con código EAN, paletizado y cargas para contenedor."
+      }
+    ],
+    "faixa_titulo": "¿Busca un proveedor de tablas de planchar?",
+    "faixa_texto": "Enviamos el catálogo completo y las condiciones para tiendas y distribuidores, en Portugal y en el extranjero.",
+    "numeros": [
+      {
+        "valor": "1986",
+        "texto": "Año de fundación"
+      },
+      {
+        "valor": "+35 años",
+        "texto": "De experiencia en fabricación"
+      },
+      {
+        "valor": "100%",
+        "texto": "Fabricación propia"
+      },
+      {
+        "valor": "4 idiomas",
+        "texto": "Catálogo en PT, ES, FR y EN"
+      }
+    ]
+  }
+}

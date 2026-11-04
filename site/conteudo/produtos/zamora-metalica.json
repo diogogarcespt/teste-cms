@@ -1,0 +1,137 @@
+{
+  "pt": {
+    "nome": "Zamora Metálica",
+    "ref": "301",
+    "gama": "tabuas",
+    "descricao": "Tábua de engomar com pousa-ferro metálico com silicones, tacos ajustáveis e tampo metálico perfurado.",
+    "caracteristicas": [
+      {
+        "texto": "Pousa-ferro metálico com silicones"
+      },
+      {
+        "texto": "Tacos ajustáveis"
+      },
+      {
+        "texto": "Tampo metálico perfurado"
+      }
+    ],
+    "imagem": "/img/produtos/zamora-metalica.jpg",
+    "galeria": [
+      {
+        "imagem": "/img/produtos/zamora-metalica-d1.jpg"
+      },
+      {
+        "imagem": "/img/produtos/zamora-metalica-d2.jpg"
+      },
+      {
+        "imagem": "/img/produtos/zamora-metalica-d3.jpg"
+      }
+    ],
+    "ean": "5605233020518",
+    "peso": "7 kg",
+    "tampo": "110 × 32 cm",
+    "tubo": "Ø 22 × 0,7 mm",
+    "alturas": "60 / 90 cm",
+    "capa": "",
+    "pousaferro": "",
+    "caixa": "",
+    "unidades_caixa": "",
+    "unidades_palete": "",
+    "palete": "",
+    "contentor20": "",
+    "contentor40": "",
+    "tir": "",
+    "destaque": false,
+    "ordem": 16
+  },
+  "en": {
+    "nome": "Zamora Metálica",
+    "ref": "301",
+    "gama": "tabuas",
+    "descricao": "Ironing board with a metal iron rest with silicone pads, adjustable feet and a perforated metal top.",
+    "caracteristicas": [
+      {
+        "texto": "Metal iron rest with silicone pads"
+      },
+      {
+        "texto": "Adjustable feet"
+      },
+      {
+        "texto": "Perforated metal top"
+      }
+    ],
+    "imagem": "/img/produtos/zamora-metalica.jpg",
+    "galeria": [
+      {
+        "imagem": "/img/produtos/zamora-metalica-d1.jpg"
+      },
+      {
+        "imagem": "/img/produtos/zamora-metalica-d2.jpg"
+      },
+      {
+        "imagem": "/img/produtos/zamora-metalica-d3.jpg"
+      }
+    ],
+    "ean": "5605233020518",
+    "peso": "7 kg",
+    "tampo": "110 × 32 cm",
+    "tubo": "Ø 22 × 0,7 mm",
+    "alturas": "60 / 90 cm",
+    "capa": "",
+    "pousaferro": "",
+    "caixa": "",
+    "unidades_caixa": "",
+    "unidades_palete": "",
+    "palete": "",
+    "contentor20": "",
+    "contentor40": "",
+    "tir": "",
+    "destaque": false,
+    "ordem": 16
+  },
+  "es": {
+    "nome": "Zamora Metálica",
+    "ref": "301",
+    "gama": "tabuas",
+    "descricao": "Tabla de planchar con posaplancha metálico con silicona, tacos ajustables y tablero metálico perforado.",
+    "caracteristicas": [
+      {
+        "texto": "Posaplancha metálico con silicona"
+      },
+      {
+        "texto": "Tacos ajustables"
+      },
+      {
+        "texto": "Tablero metálico perforado"
+      }
+    ],
+    "imagem": "/img/produtos/zamora-metalica.jpg",
+    "galeria": [
+      {
+        "imagem": "/img/produtos/zamora-metalica-d1.jpg"
+      },
+      {
+        "imagem": "/img/produtos/zamora-metalica-d2.jpg"
+      },
+      {
+        "imagem": "/img/produtos/zamora-metalica-d3.jpg"
+      }
+    ],
+    "ean": "5605233020518",
+    "peso": "7 kg",
+    "tampo": "110 × 32 cm",
+    "tubo": "Ø 22 × 0,7 mm",
+    "alturas": "60 / 90 cm",
+    "capa": "",
+    "pousaferro": "",
+    "caixa": "",
+    "unidades_caixa": "",
+    "unidades_palete": "",
+    "palete": "",
+    "contentor20": "",
+    "contentor40": "",
+    "tir": "",
+    "destaque": false,
+    "ordem": 16
+  }
+}

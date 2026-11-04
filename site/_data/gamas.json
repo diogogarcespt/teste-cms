@@ -1,0 +1,58 @@
+[
+ {
+  "id": "tabuas",
+  "nome": {
+   "pt": "Tábuas de engomar",
+   "en": "Ironing boards",
+   "es": "Tablas de planchar"
+  },
+  "sub": {
+   "pt": "Tampo em rede ou metálico",
+   "en": "Mesh or metal tops",
+   "es": "Tablero de rejilla o metálico"
+  },
+  "imagem": "/img/produtos/cartaxo-1.jpg"
+ },
+ {
+  "id": "estendais",
+  "nome": {
+   "pt": "Estendais",
+   "en": "Clothes dryers",
+   "es": "Tendederos"
+  },
+  "sub": {
+   "pt": "De chão e de varanda",
+   "en": "Floor and balcony models",
+   "es": "De suelo y de balcón"
+  },
+  "imagem": "/img/produtos/estendal.jpg"
+ },
+ {
+  "id": "campo",
+  "nome": {
+   "pt": "Artigos de campo",
+   "en": "Camping furniture",
+   "es": "Artículos de camping"
+  },
+  "sub": {
+   "pt": "Cadeiras, bancos e mesas",
+   "en": "Chairs, stools and tables",
+   "es": "Sillas, taburetes y mesas"
+  },
+  "imagem": "/img/produtos/cadeira-posicoes.jpg"
+ },
+ {
+  "id": "opcionais",
+  "nome": {
+   "pt": "Opcionais",
+   "en": "Accessories",
+   "es": "Accesorios"
+  },
+  "sub": {
+   "pt": "Tabuleiros, coberturas e passa-mangas",
+   "en": "Trays, covers and sleeve boards",
+   "es": "Bandejas, fundas y planchamangas"
+  },
+  "imagem": "/img/produtos/tabuleiro.jpg"
+ }
+]

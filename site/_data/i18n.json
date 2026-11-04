@@ -1,0 +1,317 @@
+{
+ "nav_inicio": {
+  "pt": "Início",
+  "en": "Home",
+  "es": "Inicio"
+ },
+ "nav_empresa": {
+  "pt": "Empresa",
+  "en": "Company",
+  "es": "Empresa"
+ },
+ "nav_produtos": {
+  "pt": "Produtos",
+  "en": "Products",
+  "es": "Productos"
+ },
+ "nav_contactos": {
+  "pt": "Contactos",
+  "en": "Contact",
+  "es": "Contacto"
+ },
+ "pedir_orcamento": {
+  "pt": "Pedir orçamento",
+  "en": "Request a quote",
+  "es": "Pedir presupuesto"
+ },
+ "pedir_catalogo": {
+  "pt": "Pedir catálogo",
+  "en": "Request catalogue",
+  "es": "Pedir catálogo"
+ },
+ "ver_produtos": {
+  "pt": "Ver produtos",
+  "en": "View products",
+  "es": "Ver productos"
+ },
+ "ver_todos": {
+  "pt": "Ver todos os produtos",
+  "en": "View all products",
+  "es": "Ver todos los productos"
+ },
+ "ver_modelos": {
+  "pt": "Ver modelos",
+  "en": "View models",
+  "es": "Ver modelos"
+ },
+ "ref": {
+  "pt": "Ref.",
+  "en": "Ref.",
+  "es": "Ref."
+ },
+ "todos": {
+  "pt": "Todos",
+  "en": "All",
+  "es": "Todos"
+ },
+ "pesquisar": {
+  "pt": "Pesquisar por nome ou referência",
+  "en": "Search by name or reference",
+  "es": "Buscar por nombre o referencia"
+ },
+ "sem_resultados": {
+  "pt": "Não encontrámos produtos com esse critério.",
+  "en": "No products match your search.",
+  "es": "No hay productos con ese criterio."
+ },
+ "produtos_n": {
+  "pt": "produtos",
+  "en": "products",
+  "es": "productos"
+ },
+ "caracteristicas": {
+  "pt": "Características",
+  "en": "Features",
+  "es": "Características"
+ },
+ "dados_tecnicos": {
+  "pt": "Dados técnicos",
+  "en": "Technical data",
+  "es": "Datos técnicos"
+ },
+ "dados_logisticos": {
+  "pt": "Dados logísticos",
+  "en": "Logistics data",
+  "es": "Datos logísticos"
+ },
+ "tampo": {
+  "pt": "Dimensões do tampo",
+  "en": "Board size",
+  "es": "Medidas del tablero"
+ },
+ "peso": {
+  "pt": "Peso",
+  "en": "Weight",
+  "es": "Peso"
+ },
+ "tubo": {
+  "pt": "Tubo",
+  "en": "Tube",
+  "es": "Tubo"
+ },
+ "alturas": {
+  "pt": "Alturas",
+  "en": "Heights",
+  "es": "Alturas"
+ },
+ "capa": {
+  "pt": "Capa",
+  "en": "Cover",
+  "es": "Funda"
+ },
+ "pousaferro": {
+  "pt": "Pousa-ferro",
+  "en": "Iron rest",
+  "es": "Posaplancha"
+ },
+ "ean": {
+  "pt": "Código EAN",
+  "en": "EAN code",
+  "es": "Código EAN"
+ },
+ "caixa": {
+  "pt": "Dimensões da caixa",
+  "en": "Box size",
+  "es": "Medidas de la caja"
+ },
+ "unidades_caixa": {
+  "pt": "Unidades por caixa",
+  "en": "Units per box",
+  "es": "Unidades por caja"
+ },
+ "unidades_palete": {
+  "pt": "Unidades por palete",
+  "en": "Units per pallet",
+  "es": "Unidades por palé"
+ },
+ "palete": {
+  "pt": "Dimensões da palete",
+  "en": "Pallet size",
+  "es": "Medidas del palé"
+ },
+ "contentor20": {
+  "pt": "Contentor 20'",
+  "en": "20' container",
+  "es": "Contenedor 20'"
+ },
+ "contentor40": {
+  "pt": "Contentor 40'",
+  "en": "40' container",
+  "es": "Contenedor 40'"
+ },
+ "tir": {
+  "pt": "Camião TIR",
+  "en": "TIR truck",
+  "es": "Camión TIR"
+ },
+ "tecnicos_pedido": {
+  "pt": "Dados técnicos completos disponíveis a pedido.",
+  "en": "Full technical data available on request.",
+  "es": "Datos técnicos completos disponibles bajo petición."
+ },
+ "relacionados": {
+  "pt": "Outros modelos da mesma gama",
+  "en": "Other models in this range",
+  "es": "Otros modelos de la misma gama"
+ },
+ "voltar": {
+  "pt": "Todos os produtos",
+  "en": "All products",
+  "es": "Todos los productos"
+ },
+ "orcamento_produto": {
+  "pt": "Pedir orçamento para este modelo",
+  "en": "Request a quote for this model",
+  "es": "Pedir presupuesto para este modelo"
+ },
+ "f_nome": {
+  "pt": "Nome",
+  "en": "Name",
+  "es": "Nombre"
+ },
+ "f_empresa": {
+  "pt": "Empresa",
+  "en": "Company",
+  "es": "Empresa"
+ },
+ "f_email": {
+  "pt": "Email",
+  "en": "Email",
+  "es": "Email"
+ },
+ "f_telefone": {
+  "pt": "Telefone",
+  "en": "Phone",
+  "es": "Teléfono"
+ },
+ "f_pais": {
+  "pt": "País",
+  "en": "Country",
+  "es": "País"
+ },
+ "f_assunto": {
+  "pt": "Assunto",
+  "en": "Subject",
+  "es": "Asunto"
+ },
+ "f_produto": {
+  "pt": "Produto de interesse",
+  "en": "Product of interest",
+  "es": "Producto de interés"
+ },
+ "f_mensagem": {
+  "pt": "Mensagem",
+  "en": "Message",
+  "es": "Mensaje"
+ },
+ "f_enviar": {
+  "pt": "Enviar pedido",
+  "en": "Send request",
+  "es": "Enviar solicitud"
+ },
+ "f_assunto_orc": {
+  "pt": "Pedido de orçamento",
+  "en": "Quote request",
+  "es": "Solicitud de presupuesto"
+ },
+ "f_assunto_cat": {
+  "pt": "Pedido de catálogo",
+  "en": "Catalogue request",
+  "es": "Solicitud de catálogo"
+ },
+ "f_assunto_outro": {
+  "pt": "Outro assunto",
+  "en": "Other",
+  "es": "Otro asunto"
+ },
+ "f_privacidade": {
+  "pt": "Ao enviar, aceito que a Jocorsil use estes dados para responder ao meu pedido.",
+  "en": "By sending, I agree that Jocorsil may use this data to reply to my request.",
+  "es": "Al enviar, acepto que Jocorsil use estos datos para responder a mi solicitud."
+ },
+ "f_obrigado": {
+  "pt": "Obrigado! Recebemos o seu pedido e respondemos com a maior brevidade.",
+  "en": "Thank you! We have received your request and will reply shortly.",
+  "es": "¡Gracias! Hemos recibido su solicitud y responderemos lo antes posible."
+ },
+ "telefone": {
+  "pt": "Telefone",
+  "en": "Phone",
+  "es": "Teléfono"
+ },
+ "telemovel": {
+  "pt": "Telemóvel",
+  "en": "Mobile",
+  "es": "Móvil"
+ },
+ "email": {
+  "pt": "Email",
+  "en": "Email",
+  "es": "Email"
+ },
+ "morada": {
+  "pt": "Morada",
+  "en": "Address",
+  "es": "Dirección"
+ },
+ "chamada_fixa": {
+  "pt": "Chamada para a rede fixa nacional",
+  "en": "Call to a Portuguese landline",
+  "es": "Llamada a red fija nacional"
+ },
+ "chamada_movel": {
+  "pt": "Chamada para a rede móvel nacional",
+  "en": "Call to a Portuguese mobile",
+  "es": "Llamada a red móvil nacional"
+ },
+ "como_chegar": {
+  "pt": "Como chegar",
+  "en": "Get directions",
+  "es": "Cómo llegar"
+ },
+ "rodape_desc": {
+  "pt": "Fabricante de tábuas de engomar, estendais e artigos de campo desde 1986.",
+  "en": "Manufacturer of ironing boards, clothes dryers and camping furniture since 1986.",
+  "es": "Fabricante de tablas de planchar, tendederos y artículos de camping desde 1986."
+ },
+ "direitos": {
+  "pt": "Todos os direitos reservados.",
+  "en": "All rights reserved.",
+  "es": "Todos los derechos reservados."
+ },
+ "privacidade": {
+  "pt": "Política de privacidade",
+  "en": "Privacy policy",
+  "es": "Política de privacidad"
+ },
+ "reclamacoes": {
+  "pt": "Livro de reclamações",
+  "en": "Complaints book",
+  "es": "Libro de reclamaciones"
+ },
+ "esboco": {
+  "pt": "Esboço de demonstração preparado por Diogo Garcês",
+  "en": "Demo draft prepared by Diogo Garcês",
+  "es": "Boceto de demostración preparado por Diogo Garcês"
+ },
+ "menu": {
+  "pt": "Menu",
+  "en": "Menu",
+  "es": "Menú"
+ },
+ "em_destaque": {
+  "pt": "Em destaque",
+  "en": "Featured",
+  "es": "Destacados"
+ }
+}

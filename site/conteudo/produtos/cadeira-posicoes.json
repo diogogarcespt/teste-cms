@@ -1,0 +1,137 @@
+{
+  "pt": {
+    "nome": "Cadeira Cretone Posições",
+    "ref": "101",
+    "gama": "campo",
+    "descricao": "Cadeira de campo confortável, com várias posições. Dobrável e fácil de guardar.",
+    "caracteristicas": [
+      {
+        "texto": "Dobrável e fácil de guardar"
+      },
+      {
+        "texto": "Articulações resistentes"
+      },
+      {
+        "texto": "Tacos anti-derrapantes"
+      }
+    ],
+    "imagem": "/img/produtos/cadeira-posicoes.jpg",
+    "galeria": [
+      {
+        "imagem": "/img/produtos/cadeira-posicoes-d1.jpg"
+      },
+      {
+        "imagem": "/img/produtos/cadeira-posicoes-d2.jpg"
+      },
+      {
+        "imagem": "/img/produtos/cadeira-posicoes-d3.jpg"
+      }
+    ],
+    "ean": "5605233020015",
+    "peso": "4,80 kg",
+    "tampo": "",
+    "tubo": "Ø 19 × 1 mm",
+    "alturas": "",
+    "capa": "",
+    "pousaferro": "",
+    "caixa": "",
+    "unidades_caixa": "",
+    "unidades_palete": "",
+    "palete": "",
+    "contentor20": "",
+    "contentor40": "",
+    "tir": "",
+    "destaque": false,
+    "ordem": 24
+  },
+  "en": {
+    "nome": "Cretonne Reclining Chair",
+    "ref": "101",
+    "gama": "campo",
+    "descricao": "Comfortable camping chair with several reclining positions. Folds flat for easy storage.",
+    "caracteristicas": [
+      {
+        "texto": "Foldable and easy to store"
+      },
+      {
+        "texto": "Sturdy joints"
+      },
+      {
+        "texto": "Non-slip feet"
+      }
+    ],
+    "imagem": "/img/produtos/cadeira-posicoes.jpg",
+    "galeria": [
+      {
+        "imagem": "/img/produtos/cadeira-posicoes-d1.jpg"
+      },
+      {
+        "imagem": "/img/produtos/cadeira-posicoes-d2.jpg"
+      },
+      {
+        "imagem": "/img/produtos/cadeira-posicoes-d3.jpg"
+      }
+    ],
+    "ean": "5605233020015",
+    "peso": "4,80 kg",
+    "tampo": "",
+    "tubo": "Ø 19 × 1 mm",
+    "alturas": "",
+    "capa": "",
+    "pousaferro": "",
+    "caixa": "",
+    "unidades_caixa": "",
+    "unidades_palete": "",
+    "palete": "",
+    "contentor20": "",
+    "contentor40": "",
+    "tir": "",
+    "destaque": false,
+    "ordem": 24
+  },
+  "es": {
+    "nome": "Silla Cretona Posiciones",
+    "ref": "101",
+    "gama": "campo",
+    "descricao": "Silla de camping cómoda, con varias posiciones. Plegable y fácil de guardar.",
+    "caracteristicas": [
+      {
+        "texto": "Plegable y fácil de guardar"
+      },
+      {
+        "texto": "Articulaciones resistentes"
+      },
+      {
+        "texto": "Tacos antideslizantes"
+      }
+    ],
+    "imagem": "/img/produtos/cadeira-posicoes.jpg",
+    "galeria": [
+      {
+        "imagem": "/img/produtos/cadeira-posicoes-d1.jpg"
+      },
+      {
+        "imagem": "/img/produtos/cadeira-posicoes-d2.jpg"
+      },
+      {
+        "imagem": "/img/produtos/cadeira-posicoes-d3.jpg"
+      }
+    ],
+    "ean": "5605233020015",
+    "peso": "4,80 kg",
+    "tampo": "",
+    "tubo": "Ø 19 × 1 mm",
+    "alturas": "",
+    "capa": "",
+    "pousaferro": "",
+    "caixa": "",
+    "unidades_caixa": "",
+    "unidades_palete": "",
+    "palete": "",
+    "contentor20": "",
+    "contentor40": "",
+    "tir": "",
+    "destaque": false,
+    "ordem": 24
+  }
+}

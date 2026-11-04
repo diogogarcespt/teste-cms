@@ -1,0 +1,137 @@
+{
+  "pt": {
+    "nome": "São Jorge",
+    "ref": "151",
+    "gama": "tabuas",
+    "descricao": "Tábua de engomar com pousa-ferro metálico, tacos anti-derrapantes e tampo metálico perfurado.",
+    "caracteristicas": [
+      {
+        "texto": "Pousa-ferro metálico"
+      },
+      {
+        "texto": "Tacos anti-derrapantes"
+      },
+      {
+        "texto": "Tampo metálico perfurado"
+      }
+    ],
+    "imagem": "/img/produtos/sao-jorge.jpg",
+    "galeria": [
+      {
+        "imagem": "/img/produtos/sao-jorge-d1.jpg"
+      },
+      {
+        "imagem": "/img/produtos/sao-jorge-d2.jpg"
+      },
+      {
+        "imagem": "/img/produtos/sao-jorge-d3.jpg"
+      }
+    ],
+    "ean": "5605233001609",
+    "peso": "4,7 kg",
+    "tampo": "110 × 32 cm",
+    "tubo": "Ø 19 × 0,7 mm",
+    "alturas": "60 / 90 cm",
+    "capa": "",
+    "pousaferro": "",
+    "caixa": "",
+    "unidades_caixa": "",
+    "unidades_palete": "",
+    "palete": "",
+    "contentor20": "",
+    "contentor40": "",
+    "tir": "",
+    "destaque": false,
+    "ordem": 7
+  },
+  "en": {
+    "nome": "São Jorge",
+    "ref": "151",
+    "gama": "tabuas",
+    "descricao": "Ironing board with a metal iron rest, non-slip feet and a perforated metal top.",
+    "caracteristicas": [
+      {
+        "texto": "Metal iron rest"
+      },
+      {
+        "texto": "Non-slip feet"
+      },
+      {
+        "texto": "Perforated metal top"
+      }
+    ],
+    "imagem": "/img/produtos/sao-jorge.jpg",
+    "galeria": [
+      {
+        "imagem": "/img/produtos/sao-jorge-d1.jpg"
+      },
+      {
+        "imagem": "/img/produtos/sao-jorge-d2.jpg"
+      },
+      {
+        "imagem": "/img/produtos/sao-jorge-d3.jpg"
+      }
+    ],
+    "ean": "5605233001609",
+    "peso": "4,7 kg",
+    "tampo": "110 × 32 cm",
+    "tubo": "Ø 19 × 0,7 mm",
+    "alturas": "60 / 90 cm",
+    "capa": "",
+    "pousaferro": "",
+    "caixa": "",
+    "unidades_caixa": "",
+    "unidades_palete": "",
+    "palete": "",
+    "contentor20": "",
+    "contentor40": "",
+    "tir": "",
+    "destaque": false,
+    "ordem": 7
+  },
+  "es": {
+    "nome": "São Jorge",
+    "ref": "151",
+    "gama": "tabuas",
+    "descricao": "Tabla de planchar con posaplancha metálico, tacos antideslizantes y tablero metálico perforado.",
+    "caracteristicas": [
+      {
+        "texto": "Posaplancha metálico"
+      },
+      {
+        "texto": "Tacos antideslizantes"
+      },
+      {
+        "texto": "Tablero metálico perforado"
+      }
+    ],
+    "imagem": "/img/produtos/sao-jorge.jpg",
+    "galeria": [
+      {
+        "imagem": "/img/produtos/sao-jorge-d1.jpg"
+      },
+      {
+        "imagem": "/img/produtos/sao-jorge-d2.jpg"
+      },
+      {
+        "imagem": "/img/produtos/sao-jorge-d3.jpg"
+      }
+    ],
+    "ean": "5605233001609",
+    "peso": "4,7 kg",
+    "tampo": "110 × 32 cm",
+    "tubo": "Ø 19 × 0,7 mm",
+    "alturas": "60 / 90 cm",
+    "capa": "",
+    "pousaferro": "",
+    "caixa": "",
+    "unidades_caixa": "",
+    "unidades_palete": "",
+    "palete": "",
+    "contentor20": "",
+    "contentor40": "",
+    "tir": "",
+    "destaque": false,
+    "ordem": 7
+  }
+}

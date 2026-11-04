@@ -1,0 +1,137 @@
+{
+  "pt": {
+    "nome": "Zamora Rede",
+    "ref": "300",
+    "gama": "tabuas",
+    "descricao": "Tábua de engomar com pousa-ferro metálico com silicones, tacos ajustáveis e tampo em rede.",
+    "caracteristicas": [
+      {
+        "texto": "Pousa-ferro metálico com silicones"
+      },
+      {
+        "texto": "Tacos ajustáveis"
+      },
+      {
+        "texto": "Tampo em rede"
+      }
+    ],
+    "imagem": "/img/produtos/zamora-rede.jpg",
+    "galeria": [
+      {
+        "imagem": "/img/produtos/zamora-rede-d1.jpg"
+      },
+      {
+        "imagem": "/img/produtos/zamora-rede-d2.jpg"
+      },
+      {
+        "imagem": "/img/produtos/zamora-rede-d3.jpg"
+      }
+    ],
+    "ean": "5605233020501",
+    "peso": "7 kg",
+    "tampo": "110 × 32 cm",
+    "tubo": "Ø 22 × 0,7 mm",
+    "alturas": "60 / 90 cm",
+    "capa": "",
+    "pousaferro": "",
+    "caixa": "",
+    "unidades_caixa": "",
+    "unidades_palete": "",
+    "palete": "",
+    "contentor20": "",
+    "contentor40": "",
+    "tir": "",
+    "destaque": false,
+    "ordem": 15
+  },
+  "en": {
+    "nome": "Zamora Rede",
+    "ref": "300",
+    "gama": "tabuas",
+    "descricao": "Ironing board with a metal iron rest with silicone pads, adjustable feet and a mesh top.",
+    "caracteristicas": [
+      {
+        "texto": "Metal iron rest with silicone pads"
+      },
+      {
+        "texto": "Adjustable feet"
+      },
+      {
+        "texto": "Mesh top"
+      }
+    ],
+    "imagem": "/img/produtos/zamora-rede.jpg",
+    "galeria": [
+      {
+        "imagem": "/img/produtos/zamora-rede-d1.jpg"
+      },
+      {
+        "imagem": "/img/produtos/zamora-rede-d2.jpg"
+      },
+      {
+        "imagem": "/img/produtos/zamora-rede-d3.jpg"
+      }
+    ],
+    "ean": "5605233020501",
+    "peso": "7 kg",
+    "tampo": "110 × 32 cm",
+    "tubo": "Ø 22 × 0,7 mm",
+    "alturas": "60 / 90 cm",
+    "capa": "",
+    "pousaferro": "",
+    "caixa": "",
+    "unidades_caixa": "",
+    "unidades_palete": "",
+    "palete": "",
+    "contentor20": "",
+    "contentor40": "",
+    "tir": "",
+    "destaque": false,
+    "ordem": 15
+  },
+  "es": {
+    "nome": "Zamora Rede",
+    "ref": "300",
+    "gama": "tabuas",
+    "descricao": "Tabla de planchar con posaplancha metálico con silicona, tacos ajustables y tablero de rejilla.",
+    "caracteristicas": [
+      {
+        "texto": "Posaplancha metálico con silicona"
+      },
+      {
+        "texto": "Tacos ajustables"
+      },
+      {
+        "texto": "Tablero de rejilla"
+      }
+    ],
+    "imagem": "/img/produtos/zamora-rede.jpg",
+    "galeria": [
+      {
+        "imagem": "/img/produtos/zamora-rede-d1.jpg"
+      },
+      {
+        "imagem": "/img/produtos/zamora-rede-d2.jpg"
+      },
+      {
+        "imagem": "/img/produtos/zamora-rede-d3.jpg"
+      }
+    ],
+    "ean": "5605233020501",
+    "peso": "7 kg",
+    "tampo": "110 × 32 cm",
+    "tubo": "Ø 22 × 0,7 mm",
+    "alturas": "60 / 90 cm",
+    "capa": "",
+    "pousaferro": "",
+    "caixa": "",
+    "unidades_caixa": "",
+    "unidades_palete": "",
+    "palete": "",
+    "contentor20": "",
+    "contentor40": "",
+    "tir": "",
+    "destaque": false,
+    "ordem": 15
+  }
+}

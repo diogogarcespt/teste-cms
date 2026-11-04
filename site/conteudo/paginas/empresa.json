@@ -1,0 +1,68 @@
+{
+  "pt": {
+    "titulo": "Uma fábrica com mais de 35 anos de história.",
+    "introducao": "A Jocorsil é a marca da José Correia da Silva, Lda., empresa fundada em 1986 em Caldas de São Jorge, no concelho de Santa Maria da Feira.",
+    "historia_titulo": "A nossa história",
+    "historia": "Começámos pelas tábuas de engomar e, ao longo de mais de três décadas, alargámos a produção a estendais, artigos de campo e outros produtos metálicos. Hoje somos uma referência no fabrico de tábuas de engomar e estamos presentes no mercado nacional e internacional.",
+    "fabrico_titulo": "Como fabricamos",
+    "fabrico": "Cada tábua nasce na nossa fábrica: do corte e estampagem da chapa à pintura em epóxi e à montagem final. Ter o processo completo em casa permite-nos controlar a qualidade de cada peça e responder com rapidez a lojas e distribuidores.",
+    "valores": [
+      {
+        "titulo": "Experiência",
+        "texto": "Mais de 35 anos dedicados ao fabrico de artigos para a casa."
+      },
+      {
+        "titulo": "Qualidade",
+        "texto": "Materiais resistentes e acabamentos pensados para o uso diário."
+      },
+      {
+        "titulo": "Proximidade",
+        "texto": "Contacto direto com quem compra, em Portugal e no estrangeiro."
+      }
+    ]
+  },
+  "en": {
+    "titulo": "A factory with over 35 years of history.",
+    "introducao": "Jocorsil is the brand of José Correia da Silva, Lda., a company founded in 1986 in Caldas de São Jorge, in northern Portugal.",
+    "historia_titulo": "Our story",
+    "historia": "We started with ironing boards and, over more than three decades, expanded into clothes dryers, camping furniture and other metal products. Today we are a reference in ironing board manufacturing, present in Portugal and abroad.",
+    "fabrico_titulo": "How we make it",
+    "fabrico": "Every board is born in our factory: from cutting and stamping the steel sheet to epoxy painting and final assembly. Keeping the whole process in-house lets us control the quality of every piece and respond quickly to retailers and distributors.",
+    "valores": [
+      {
+        "titulo": "Experience",
+        "texto": "Over 35 years dedicated to manufacturing household goods."
+      },
+      {
+        "titulo": "Quality",
+        "texto": "Durable materials and finishes designed for everyday use."
+      },
+      {
+        "titulo": "Close relationships",
+        "texto": "Direct contact with our customers, in Portugal and abroad."
+      }
+    ]
+  },
+  "es": {
+    "titulo": "Una fábrica con más de 35 años de historia.",
+    "introducao": "Jocorsil es la marca de José Correia da Silva, Lda., empresa fundada en 1986 en Caldas de São Jorge, en el norte de Portugal.",
+    "historia_titulo": "Nuestra historia",
+    "historia": "Empezamos con las tablas de planchar y, a lo largo de más de tres décadas, ampliamos la producción a tendederos, artículos de camping y otros productos metálicos. Hoy somos una referencia en la fabricación de tablas de planchar, con presencia en el mercado nacional e internacional.",
+    "fabrico_titulo": "Cómo fabricamos",
+    "fabrico": "Cada tabla nace en nuestra fábrica: desde el corte y estampado de la chapa hasta la pintura epoxi y el montaje final. Tener todo el proceso en casa nos permite controlar la calidad de cada pieza y responder con rapidez a tiendas y distribuidores.",
+    "valores": [
+      {
+        "titulo": "Experiencia",
+        "texto": "Más de 35 años dedicados a la fabricación de artículos para el hogar."
+      },
+      {
+        "titulo": "Calidad",
+        "texto": "Materiales resistentes y acabados pensados para el uso diario."
+      },
+      {
+        "titulo": "Cercanía",
+        "texto": "Contacto directo con nuestros clientes, en Portugal y en el extranjero."
+      }
+    ]
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "pt": {
+    "nome": "Sesimbra Modelo 2",
+    "ref": "205",
+    "gama": "tabuas",
+    "descricao": "Tábua de engomar com pousa-ferro para caldeira a vapor e ferro tradicional, tacos ajustáveis e tampo em rede.",
+    "caracteristicas": [
+      {
+        "texto": "Para caldeira a vapor e ferro tradicional"
+      },
+      {
+        "texto": "Tacos ajustáveis"
+      },
+      {
+        "texto": "Tampo em rede"
+      }
+    ],
+    "imagem": "/img/produtos/sesimbra-2.jpg",
+    "galeria": [
+      {
+        "imagem": "/img/produtos/sesimbra-2-d1.jpg"
+      },
+      {
+        "imagem": "/img/produtos/sesimbra-2-d2.jpg"
+      },
+      {
+        "imagem": "/img/produtos/sesimbra-2-d3.jpg"
+      }
+    ],
+    "ean": "5605233001500",
+    "peso": "7 kg",
+    "tampo": "120 × 42 cm",
+    "tubo": "30 × 20 mm",
+    "alturas": "60 / 90 cm",
+    "capa": "",
+    "pousaferro": "",
+    "caixa": "",
+    "unidades_caixa": "",
+    "unidades_palete": "",
+    "palete": "",
+    "contentor20": "",
+    "contentor40": "",
+    "tir": "",
+    "destaque": false,
+    "ordem": 14
+  },
+  "en": {
+    "nome": "Sesimbra Modelo 2",
+    "ref": "205",
+    "gama": "tabuas",
+    "descricao": "Ironing board with an iron rest for steam generators and traditional irons, adjustable feet and a mesh top.",
+    "caracteristicas": [
+      {
+        "texto": "For steam generators and traditional irons"
+      },
+      {
+        "texto": "Adjustable feet"
+      },
+      {
+        "texto": "Mesh top"
+      }
+    ],
+    "imagem": "/img/produtos/sesimbra-2.jpg",
+    "galeria": [
+      {
+        "imagem": "/img/produtos/sesimbra-2-d1.jpg"
+      },
+      {
+        "imagem": "/img/produtos/sesimbra-2-d2.jpg"
+      },
+      {
+        "imagem": "/img/produtos/sesimbra-2-d3.jpg"
+      }
+    ],
+    "ean": "5605233001500",
+    "peso": "7 kg",
+    "tampo": "120 × 42 cm",
+    "tubo": "30 × 20 mm",
+    "alturas": "60 / 90 cm",
+    "capa": "",
+    "pousaferro": "",
+    "caixa": "",
+    "unidades_caixa": "",
+    "unidades_palete": "",
+    "palete": "",
+    "contentor20": "",
+    "contentor40": "",
+    "tir": "",
+    "destaque": false,
+    "ordem": 14
+  },
+  "es": {
+    "nome": "Sesimbra Modelo 2",
+    "ref": "205",
+    "gama": "tabuas",
+    "descricao": "Tabla de planchar con posaplancha para centro de planchado y plancha tradicional, tacos ajustables y tablero de rejilla.",
+    "caracteristicas": [
+      {
+        "texto": "Para centro de planchado y plancha tradicional"
+      },
+      {
+        "texto": "Tacos ajustables"
+      },
+      {
+        "texto": "Tablero de rejilla"
+      }
+    ],
+    "imagem": "/img/produtos/sesimbra-2.jpg",
+    "galeria": [
+      {
+        "imagem": "/img/produtos/sesimbra-2-d1.jpg"
+      },
+      {
+        "imagem": "/img/produtos/sesimbra-2-d2.jpg"
+      },
+      {
+        "imagem": "/img/produtos/sesimbra-2-d3.jpg"
+      }
+    ],
+    "ean": "5605233001500",
+    "peso": "7 kg",
+    "tampo": "120 × 42 cm",
+    "tubo": "30 × 20 mm",
+    "alturas": "60 / 90 cm",
+    "capa": "",
+    "pousaferro": "",
+    "caixa": "",
+    "unidades_caixa": "",
+    "unidades_palete": "",
+    "palete": "",
+    "contentor20": "",
+    "contentor40": "",
+    "tir": "",
+    "destaque": false,
+    "ordem": 14
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "pt": {
+    "nome": "Económica",
+    "ref": "126",
+    "gama": "tabuas",
+    "descricao": "Tábua de engomar com pousa-ferro em arame pintado ou zincado, tacos anti-derrapantes e tampo em madeira.",
+    "caracteristicas": [
+      {
+        "texto": "Pousa-ferro em arame pintado ou zincado"
+      },
+      {
+        "texto": "Tacos anti-derrapantes"
+      },
+      {
+        "texto": "Tampo em madeira"
+      }
+    ],
+    "imagem": "/img/produtos/economica.jpg",
+    "galeria": [
+      {
+        "imagem": "/img/produtos/economica-d1.jpg"
+      },
+      {
+        "imagem": "/img/produtos/economica-d2.jpg"
+      },
+      {
+        "imagem": "/img/produtos/economica-d3.jpg"
+      }
+    ],
+    "ean": "5605233020268",
+    "peso": "6 kg",
+    "tampo": "102 × 30 cm",
+    "tubo": "Ø 19 × 0,7 mm",
+    "alturas": "60 / 90 cm",
+    "capa": "",
+    "pousaferro": "",
+    "caixa": "",
+    "unidades_caixa": "",
+    "unidades_palete": "",
+    "palete": "",
+    "contentor20": "",
+    "contentor40": "",
+    "tir": "",
+    "destaque": false,
+    "ordem": 3
+  },
+  "en": {
+    "nome": "Económica",
+    "ref": "126",
+    "gama": "tabuas",
+    "descricao": "Ironing board with a painted or galvanised wire iron rest, non-slip feet and a wooden top.",
+    "caracteristicas": [
+      {
+        "texto": "Painted or galvanised wire iron rest"
+      },
+      {
+        "texto": "Non-slip feet"
+      },
+      {
+        "texto": "Wooden top"
+      }
+    ],
+    "imagem": "/img/produtos/economica.jpg",
+    "galeria": [
+      {
+        "imagem": "/img/produtos/economica-d1.jpg"
+      },
+      {
+        "imagem": "/img/produtos/economica-d2.jpg"
+      },
+      {
+        "imagem": "/img/produtos/economica-d3.jpg"
+      }
+    ],
+    "ean": "5605233020268",
+    "peso": "6 kg",
+    "tampo": "102 × 30 cm",
+    "tubo": "Ø 19 × 0,7 mm",
+    "alturas": "60 / 90 cm",
+    "capa": "",
+    "pousaferro": "",
+    "caixa": "",
+    "unidades_caixa": "",
+    "unidades_palete": "",
+    "palete": "",
+    "contentor20": "",
+    "contentor40": "",
+    "tir": "",
+    "destaque": false,
+    "ordem": 3
+  },
+  "es": {
+    "nome": "Económica",
+    "ref": "126",
+    "gama": "tabuas",
+    "descricao": "Tabla de planchar con posaplancha de alambre pintado o galvanizado, tacos antideslizantes y tablero de madera.",
+    "caracteristicas": [
+      {
+        "texto": "Posaplancha de alambre pintado o galvanizado"
+      },
+      {
+        "texto": "Tacos antideslizantes"
+      },
+      {
+        "texto": "Tablero de madera"
+      }
+    ],
+    "imagem": "/img/produtos/economica.jpg",
+    "galeria": [
+      {
+        "imagem": "/img/produtos/economica-d1.jpg"
+      },
+      {
+        "imagem": "/img/produtos/economica-d2.jpg"
+      },
+      {
+        "imagem": "/img/produtos/economica-d3.jpg"
+      }
+    ],
+    "ean": "5605233020268",
+    "peso": "6 kg",
+    "tampo": "102 × 30 cm",
+    "tubo": "Ø 19 × 0,7 mm",
+    "alturas": "60 / 90 cm",
+    "capa": "",
+    "pousaferro": "",
+    "caixa": "",
+    "unidades_caixa": "",
+    "unidades_palete": "",
+    "palete": "",
+    "contentor20": "",
+    "contentor40": "",
+    "tir": "",
+    "destaque": false,
+    "ordem": 3
+  }
+}

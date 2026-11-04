@@ -1,0 +1,137 @@
+{
+  "pt": {
+    "nome": "Banco com Costas",
+    "ref": "109",
+    "gama": "campo",
+    "descricao": "Banco com costas, prático, fácil de montar e de arrumar.",
+    "caracteristicas": [
+      {
+        "texto": "Dobrável e fácil de guardar"
+      },
+      {
+        "texto": "Tacos anti-derrapantes"
+      },
+      {
+        "texto": "Fácil de montar"
+      }
+    ],
+    "imagem": "/img/produtos/banco-com-costas.jpg",
+    "galeria": [
+      {
+        "imagem": "/img/produtos/banco-com-costas-d1.jpg"
+      },
+      {
+        "imagem": "/img/produtos/banco-com-costas-d2.jpg"
+      },
+      {
+        "imagem": "/img/produtos/banco-com-costas-d3.jpg"
+      }
+    ],
+    "ean": "5605233000091",
+    "peso": "1,20 kg",
+    "tampo": "",
+    "tubo": "Ø 16 × 0,8 mm",
+    "alturas": "",
+    "capa": "",
+    "pousaferro": "",
+    "caixa": "",
+    "unidades_caixa": "",
+    "unidades_palete": "",
+    "palete": "",
+    "contentor20": "",
+    "contentor40": "",
+    "tir": "",
+    "destaque": false,
+    "ordem": 27
+  },
+  "en": {
+    "nome": "Stool with backrest",
+    "ref": "109",
+    "gama": "campo",
+    "descricao": "Practical stool with backrest, easy to assemble and store.",
+    "caracteristicas": [
+      {
+        "texto": "Foldable and easy to store"
+      },
+      {
+        "texto": "Non-slip feet"
+      },
+      {
+        "texto": "Easy to assemble"
+      }
+    ],
+    "imagem": "/img/produtos/banco-com-costas.jpg",
+    "galeria": [
+      {
+        "imagem": "/img/produtos/banco-com-costas-d1.jpg"
+      },
+      {
+        "imagem": "/img/produtos/banco-com-costas-d2.jpg"
+      },
+      {
+        "imagem": "/img/produtos/banco-com-costas-d3.jpg"
+      }
+    ],
+    "ean": "5605233000091",
+    "peso": "1,20 kg",
+    "tampo": "",
+    "tubo": "Ø 16 × 0,8 mm",
+    "alturas": "",
+    "capa": "",
+    "pousaferro": "",
+    "caixa": "",
+    "unidades_caixa": "",
+    "unidades_palete": "",
+    "palete": "",
+    "contentor20": "",
+    "contentor40": "",
+    "tir": "",
+    "destaque": false,
+    "ordem": 27
+  },
+  "es": {
+    "nome": "Taburete con respaldo",
+    "ref": "109",
+    "gama": "campo",
+    "descricao": "Taburete con respaldo, práctico, fácil de montar y guardar.",
+    "caracteristicas": [
+      {
+        "texto": "Plegable y fácil de guardar"
+      },
+      {
+        "texto": "Tacos antideslizantes"
+      },
+      {
+        "texto": "Fácil de montar"
+      }
+    ],
+    "imagem": "/img/produtos/banco-com-costas.jpg",
+    "galeria": [
+      {
+        "imagem": "/img/produtos/banco-com-costas-d1.jpg"
+      },
+      {
+        "imagem": "/img/produtos/banco-com-costas-d2.jpg"
+      },
+      {
+        "imagem": "/img/produtos/banco-com-costas-d3.jpg"
+      }
+    ],
+    "ean": "5605233000091",
+    "peso": "1,20 kg",
+    "tampo": "",
+    "tubo": "Ø 16 × 0,8 mm",
+    "alturas": "",
+    "capa": "",
+    "pousaferro": "",
+    "caixa": "",
+    "unidades_caixa": "",
+    "unidades_palete": "",
+    "palete": "",
+    "contentor20": "",
+    "contentor40": "",
+    "tir": "",
+    "destaque": false,
+    "ordem": 27
+  }
+}

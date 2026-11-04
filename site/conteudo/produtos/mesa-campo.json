@@ -1,0 +1,137 @@
+{
+  "pt": {
+    "nome": "Mesa de Campo",
+    "ref": "113/114/115/116",
+    "gama": "campo",
+    "descricao": "Mesa de campo desdobrável, disponível em vários tamanhos.",
+    "caracteristicas": [
+      {
+        "texto": "Dobrável e fácil de guardar"
+      },
+      {
+        "texto": "Articulações resistentes"
+      },
+      {
+        "texto": "Tacos anti-derrapantes"
+      }
+    ],
+    "imagem": "/img/produtos/mesa-campo.jpg",
+    "galeria": [
+      {
+        "imagem": "/img/produtos/mesa-campo-d1.jpg"
+      },
+      {
+        "imagem": "/img/produtos/mesa-campo-d2.jpg"
+      },
+      {
+        "imagem": "/img/produtos/mesa-campo-d3.jpg"
+      }
+    ],
+    "ean": "565233000145",
+    "peso": "6,80 kg",
+    "tampo": "",
+    "tubo": "Ø 16 × 0,8 mm",
+    "alturas": "",
+    "capa": "",
+    "pousaferro": "",
+    "caixa": "",
+    "unidades_caixa": "",
+    "unidades_palete": "",
+    "palete": "",
+    "contentor20": "",
+    "contentor40": "",
+    "tir": "",
+    "destaque": true,
+    "ordem": 29
+  },
+  "en": {
+    "nome": "Camping table",
+    "ref": "113/114/115/116",
+    "gama": "campo",
+    "descricao": "Folding camping table, available in several sizes.",
+    "caracteristicas": [
+      {
+        "texto": "Foldable and easy to store"
+      },
+      {
+        "texto": "Sturdy joints"
+      },
+      {
+        "texto": "Non-slip feet"
+      }
+    ],
+    "imagem": "/img/produtos/mesa-campo.jpg",
+    "galeria": [
+      {
+        "imagem": "/img/produtos/mesa-campo-d1.jpg"
+      },
+      {
+        "imagem": "/img/produtos/mesa-campo-d2.jpg"
+      },
+      {
+        "imagem": "/img/produtos/mesa-campo-d3.jpg"
+      }
+    ],
+    "ean": "565233000145",
+    "peso": "6,80 kg",
+    "tampo": "",
+    "tubo": "Ø 16 × 0,8 mm",
+    "alturas": "",
+    "capa": "",
+    "pousaferro": "",
+    "caixa": "",
+    "unidades_caixa": "",
+    "unidades_palete": "",
+    "palete": "",
+    "contentor20": "",
+    "contentor40": "",
+    "tir": "",
+    "destaque": true,
+    "ordem": 29
+  },
+  "es": {
+    "nome": "Mesa de camping",
+    "ref": "113/114/115/116",
+    "gama": "campo",
+    "descricao": "Mesa de camping plegable, disponible en varios tamaños.",
+    "caracteristicas": [
+      {
+        "texto": "Plegable y fácil de guardar"
+      },
+      {
+        "texto": "Articulaciones resistentes"
+      },
+      {
+        "texto": "Tacos antideslizantes"
+      }
+    ],
+    "imagem": "/img/produtos/mesa-campo.jpg",
+    "galeria": [
+      {
+        "imagem": "/img/produtos/mesa-campo-d1.jpg"
+      },
+      {
+        "imagem": "/img/produtos/mesa-campo-d2.jpg"
+      },
+      {
+        "imagem": "/img/produtos/mesa-campo-d3.jpg"
+      }
+    ],
+    "ean": "565233000145",
+    "peso": "6,80 kg",
+    "tampo": "",
+    "tubo": "Ø 16 × 0,8 mm",
+    "alturas": "",
+    "capa": "",
+    "pousaferro": "",
+    "caixa": "",
+    "unidades_caixa": "",
+    "unidades_palete": "",
+    "palete": "",
+    "contentor20": "",
+    "contentor40": "",
+    "tir": "",
+    "destaque": true,
+    "ordem": 29
+  }
+}

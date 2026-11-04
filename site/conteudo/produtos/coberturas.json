@@ -1,0 +1,89 @@
+{
+  "pt": {
+    "nome": "Coberturas",
+    "ref": "",
+    "gama": "opcionais",
+    "descricao": "Coberturas para tábuas de engomar em algodão, moletom ou metalizadas.",
+    "caracteristicas": [],
+    "imagem": "/img/produtos/coberturas.jpg",
+    "galeria": [
+      {
+        "imagem": "/img/produtos/coberturas-d1.jpg"
+      }
+    ],
+    "ean": "",
+    "peso": "",
+    "tampo": "",
+    "tubo": "",
+    "alturas": "",
+    "capa": "",
+    "pousaferro": "",
+    "caixa": "",
+    "unidades_caixa": "",
+    "unidades_palete": "",
+    "palete": "",
+    "contentor20": "",
+    "contentor40": "",
+    "tir": "",
+    "destaque": false,
+    "ordem": 21
+  },
+  "en": {
+    "nome": "Covers",
+    "ref": "",
+    "gama": "opcionais",
+    "descricao": "Ironing board covers in cotton, felt or metallised fabric.",
+    "caracteristicas": [],
+    "imagem": "/img/produtos/coberturas.jpg",
+    "galeria": [
+      {
+        "imagem": "/img/produtos/coberturas-d1.jpg"
+      }
+    ],
+    "ean": "",
+    "peso": "",
+    "tampo": "",
+    "tubo": "",
+    "alturas": "",
+    "capa": "",
+    "pousaferro": "",
+    "caixa": "",
+    "unidades_caixa": "",
+    "unidades_palete": "",
+    "palete": "",
+    "contentor20": "",
+    "contentor40": "",
+    "tir": "",
+    "destaque": false,
+    "ordem": 21
+  },
+  "es": {
+    "nome": "Fundas",
+    "ref": "",
+    "gama": "opcionais",
+    "descricao": "Fundas para tablas de planchar de algodón, muletón o metalizadas.",
+    "caracteristicas": [],
+    "imagem": "/img/produtos/coberturas.jpg",
+    "galeria": [
+      {
+        "imagem": "/img/produtos/coberturas-d1.jpg"
+      }
+    ],
+    "ean": "",
+    "peso": "",
+    "tampo": "",
+    "tubo": "",
+    "alturas": "",
+    "capa": "",
+    "pousaferro": "",
+    "caixa": "",
+    "unidades_caixa": "",
+    "unidades_palete": "",
+    "palete": "",
+    "contentor20": "",
+    "contentor40": "",
+    "tir": "",
+    "destaque": false,
+    "ordem": 21
+  }
+}

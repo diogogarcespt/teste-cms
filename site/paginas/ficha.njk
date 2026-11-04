@@ -1,0 +1,74 @@
+---
+pagination: { data: fichas, size: 1, alias: f }
+permalink: "{{ ('/produtos/' + f.slug + '/') | url_lang(f.lang) }}"
+layout: base.njk
+sec: produtos
+eleventyComputed:
+  lang: "{{ f.lang }}"
+  sub: "/produtos/{{ f.slug }}/"
+  titulo: "{{ f.p.nome }}"
+  descricao: "{{ f.p.descricao }}"
+---
+{%- set T = i18n -%}{%- set p = f.p -%}{%- set lang = f.lang -%}
+{%- set gama = gamas | gama_por_id(p.gama) -%}
+<div class="ficha">
+  <div class="wrap">
+    <a class="voltar" href="{{ '/produtos/' | url_lang(lang) }}{% if gama %}#{{ gama.id }}{% endif %}">← {{ T.voltar[lang] }}</a>
+    <div class="ficha-grid">
+      <div class="galeria">
+        <div class="principal"><img id="foto" src="{{ p.imagem }}" alt="{{ p.nome }}"></div>
+        {%- if p.galeria and p.galeria.length %}
+        <div class="miniaturas">
+          <button class="ativo" data-src="{{ p.imagem }}"><img src="{{ p.imagem }}" alt=""></button>
+          {%- for g in p.galeria %}<button data-src="{{ g.imagem }}"><img src="{{ g.imagem }}" alt=""></button>{% endfor %}
+        </div>
+        {%- endif %}
+      </div>
+      <div class="info">
+        {%- if p.ref %}<span class="etiqueta">{{ T.ref[lang] | upper }} {{ p.ref }}</span>{% endif %}
+        <h1 class="display">{{ p.nome }}</h1>
+        <p class="lead">{{ p.descricao }}</p>
+        {%- if p.caracteristicas and p.caracteristicas.length %}
+        <ul class="caract">{% for c in p.caracteristicas %}<li>{{ c.texto }}</li>{% endfor %}</ul>
+        {%- endif %}
+        <div class="acoes-ficha">
+          <a class="btn btn-navy" href="{{ '/contactos/' | url_lang(lang) }}?produto={{ (p.nome + (' (Ref. ' + p.ref + ')' if p.ref else '')) | urlencode }}">{{ T.orcamento_produto[lang] }}</a>
+          <a class="btn btn-cinza" href="tel:+351256911414">{{ site.telefone }}</a>
+        </div>
+      </div>
+    </div>
+
+    {%- set tec = [['tampo', p.tampo], ['peso', p.peso], ['tubo', p.tubo], ['alturas', p.alturas], ['capa', p.capa], ['pousaferro', p.pousaferro], ['ean', p.ean]] -%}
+    {%- set log = [['caixa', p.caixa], ['unidades_caixa', p.unidades_caixa], ['unidades_palete', p.unidades_palete], ['palete', p.palete], ['contentor20', p.contentor20], ['contentor40', p.contentor40], ['tir', p.tir]] %}
+    <div class="tabelas">
+      <div class="tabela">
+        <h2>{{ T.dados_tecnicos[lang] }}</h2>
+        <table>{% for l in tec %}{% if l[1] %}<tr><th>{{ T[l[0]][lang] }}</th><td>{{ l[1] }}</td></tr>{% endif %}{% endfor %}</table>
+      </div>
+      <div class="tabela">
+        <h2>{{ T.dados_logisticos[lang] }}</h2>
+        {%- if p.unidades_palete %}
+        <table>{% for l in log %}{% if l[1] %}<tr><th>{{ T[l[0]][lang] }}</th><td>{{ l[1] }}</td></tr>{% endif %}{% endfor %}</table>
+        {%- else %}
+        <p class="nota">{{ T.tecnicos_pedido[lang] }}</p>
+        {%- endif %}
+      </div>
+    </div>
+  </div>
+</div>
+
+{%- set rel = produtos | relacionados(lang, p.gama, f.slug) %}
+{%- if rel.length %}
+<section class="relacionados">
+  <div class="wrap">
+    <h2 class="display">{{ T.relacionados[lang] }}</h2>
+    <div class="grelha">{% for item in rel %}{% include "cartao.njk" %}{% endfor %}</div>
+  </div>
+</section>
+{%- endif %}
+<script>
+document.querySelectorAll('.miniaturas button').forEach(b => b.addEventListener('click', () => {
+  document.getElementById('foto').src = b.dataset.src;
+  document.querySelectorAll('.miniaturas button').forEach(x => x.classList.toggle('ativo', x === b));
+}));
+</script>

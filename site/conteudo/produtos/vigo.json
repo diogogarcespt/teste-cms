@@ -1,0 +1,137 @@
+{
+  "pt": {
+    "nome": "Vigo",
+    "ref": "303",
+    "gama": "tabuas",
+    "descricao": "Tábua de engomar com pousa-ferro metálico com silicones, tabuleiro de roupa opcional e tampo metálico perfurado.",
+    "caracteristicas": [
+      {
+        "texto": "Pousa-ferro metálico com silicones"
+      },
+      {
+        "texto": "Tabuleiro de roupa opcional"
+      },
+      {
+        "texto": "Tampo metálico perfurado"
+      }
+    ],
+    "imagem": "/img/produtos/vigo.jpg",
+    "galeria": [
+      {
+        "imagem": "/img/produtos/vigo-d1.jpg"
+      },
+      {
+        "imagem": "/img/produtos/vigo-d2.jpg"
+      },
+      {
+        "imagem": "/img/produtos/vigo-d3.jpg"
+      }
+    ],
+    "ean": "5605233020532",
+    "peso": "6,5 kg",
+    "tampo": "120 × 36 cm",
+    "tubo": "30 × 20 mm",
+    "alturas": "60 / 90 cm",
+    "capa": "",
+    "pousaferro": "",
+    "caixa": "",
+    "unidades_caixa": "",
+    "unidades_palete": "",
+    "palete": "",
+    "contentor20": "",
+    "contentor40": "",
+    "tir": "",
+    "destaque": false,
+    "ordem": 17
+  },
+  "en": {
+    "nome": "Vigo",
+    "ref": "303",
+    "gama": "tabuas",
+    "descricao": "Ironing board with a metal iron rest with silicone pads, an optional linen tray and a perforated metal top.",
+    "caracteristicas": [
+      {
+        "texto": "Metal iron rest with silicone pads"
+      },
+      {
+        "texto": "Optional linen tray"
+      },
+      {
+        "texto": "Perforated metal top"
+      }
+    ],
+    "imagem": "/img/produtos/vigo.jpg",
+    "galeria": [
+      {
+        "imagem": "/img/produtos/vigo-d1.jpg"
+      },
+      {
+        "imagem": "/img/produtos/vigo-d2.jpg"
+      },
+      {
+        "imagem": "/img/produtos/vigo-d3.jpg"
+      }
+    ],
+    "ean": "5605233020532",
+    "peso": "6,5 kg",
+    "tampo": "120 × 36 cm",
+    "tubo": "30 × 20 mm",
+    "alturas": "60 / 90 cm",
+    "capa": "",
+    "pousaferro": "",
+    "caixa": "",
+    "unidades_caixa": "",
+    "unidades_palete": "",
+    "palete": "",
+    "contentor20": "",
+    "contentor40": "",
+    "tir": "",
+    "destaque": false,
+    "ordem": 17
+  },
+  "es": {
+    "nome": "Vigo",
+    "ref": "303",
+    "gama": "tabuas",
+    "descricao": "Tabla de planchar con posaplancha metálico con silicona, bandeja para ropa opcional y tablero metálico perforado.",
+    "caracteristicas": [
+      {
+        "texto": "Posaplancha metálico con silicona"
+      },
+      {
+        "texto": "Bandeja para ropa opcional"
+      },
+      {
+        "texto": "Tablero metálico perforado"
+      }
+    ],
+    "imagem": "/img/produtos/vigo.jpg",
+    "galeria": [
+      {
+        "imagem": "/img/produtos/vigo-d1.jpg"
+      },
+      {
+        "imagem": "/img/produtos/vigo-d2.jpg"
+      },
+      {
+        "imagem": "/img/produtos/vigo-d3.jpg"
+      }
+    ],
+    "ean": "5605233020532",
+    "peso": "6,5 kg",
+    "tampo": "120 × 36 cm",
+    "tubo": "30 × 20 mm",
+    "alturas": "60 / 90 cm",
+    "capa": "",
+    "pousaferro": "",
+    "caixa": "",
+    "unidades_caixa": "",
+    "unidades_palete": "",
+    "palete": "",
+    "contentor20": "",
+    "contentor40": "",
+    "tir": "",
+    "destaque": false,
+    "ordem": 17
+  }
+}

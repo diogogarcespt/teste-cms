@@ -1,0 +1,66 @@
+---
+pagination: { data: langs, size: 1, alias: lang }
+permalink: "{{ '/contactos/' | url_lang(lang) }}"
+layout: base.njk
+sec: contactos
+sub: "/contactos/"
+eleventyComputed:
+  titulo: "{{ i18n.nav_contactos[lang] }}"
+  descricao: "{{ paginas.contactos[lang].introducao }}"
+---
+{%- set P = paginas.contactos[lang] -%}{%- set T = i18n -%}
+<div class="cabecalho">
+  <img src="/img/banners/pousa-ferro.jpg" alt="">
+  <div class="wrap">
+    <div class="eyebrow">{{ T.nav_contactos[lang] }}</div>
+    <h1 class="display">{{ P.titulo }}</h1>
+    <p>{{ P.introducao }}</p>
+  </div>
+</div>
+<section style="padding-top:48px">
+  <div class="wrap contactos-grid">
+    <form class="form" name="contacto" method="POST" data-netlify="true" netlify-honeypot="campo-extra" action="{{ '/contactos/' | url_lang(lang) }}?enviado=1">
+      <div class="obrigado" id="obrigado">{{ T.f_obrigado[lang] }}</div>
+      <input type="hidden" name="form-name" value="contacto">
+      <input type="hidden" name="lingua" value="{{ lang }}">
+      <p hidden><label>Não preencher <input name="campo-extra"></label></p>
+      <label>{{ T.f_assunto[lang] }}
+        <select name="assunto" id="assunto">
+          <option value="orcamento">{{ T.f_assunto_orc[lang] }}</option>
+          <option value="catalogo">{{ T.f_assunto_cat[lang] }}</option>
+          <option value="outro">{{ T.f_assunto_outro[lang] }}</option>
+        </select>
+      </label>
+      <div class="linha">
+        <label>{{ T.f_nome[lang] }} *<input name="nome" required autocomplete="name"></label>
+        <label>{{ T.f_empresa[lang] }}<input name="empresa" autocomplete="organization"></label>
+      </div>
+      <div class="linha">
+        <label>{{ T.f_email[lang] }} *<input type="email" name="email" required autocomplete="email"></label>
+        <label>{{ T.f_telefone[lang] }}<input type="tel" name="telefone" autocomplete="tel"></label>
+      </div>
+      <div class="linha">
+        <label>{{ T.f_pais[lang] }}<input name="pais" autocomplete="country-name"></label>
+        <label>{{ T.f_produto[lang] }}<input name="produto" id="produto"></label>
+      </div>
+      <label>{{ T.f_mensagem[lang] }} *<textarea name="mensagem" required></textarea></label>
+      <p class="priv">{{ T.f_privacidade[lang] }}</p>
+      <button class="btn btn-navy" type="submit">{{ T.f_enviar[lang] }} →</button>
+    </form>
+    <div class="cartoes">
+      <div class="cartao-c"><span class="eyebrow">{{ T.telefone[lang] }}</span><a href="tel:+351256911414">{{ site.telefone }}</a><small>{{ T.chamada_fixa[lang] }}</small></div>
+      <div class="cartao-c"><span class="eyebrow">{{ T.telemovel[lang] }}</span><a href="tel:+351919551430">{{ site.telemovel }}</a><small>{{ T.chamada_movel[lang] }}</small></div>
+      <div class="cartao-c"><span class="eyebrow">{{ T.email[lang] }}</span><a href="mailto:{{ site.email }}">{{ site.email }}</a></div>
+      <div class="cartao-c"><span class="eyebrow">{{ T.morada[lang] }}</span><b>{{ site.morada }}<br>{{ site.codigo_postal }}</b><small><a style="font-size:.85rem;color:var(--navy)" href="https://www.google.com/maps/search/?api=1&query=Jocorsil+Caldas+de+S%C3%A3o+Jorge" target="_blank" rel="noopener">{{ T.como_chegar[lang] }} →</a></small></div>
+      <div class="mapa"><iframe loading="lazy" title="Mapa" src="https://maps.google.com/maps?q=Rua%20Orlando%20Silva%20125%2C%20Caldas%20de%20S%C3%A3o%20Jorge&z=15&output=embed"></iframe></div>
+    </div>
+  </div>
+</section>
+<script>
+(() => {
+  const q = new URLSearchParams(location.search);
+  if (q.get('produto')) { document.getElementById('produto').value = q.get('produto'); }
+  if (q.get('assunto')) { document.getElementById('assunto').value = q.get('assunto'); }
+  if (q.get('enviado')) { document.getElementById('obrigado').classList.add('ver'); }
+})();
+</script>

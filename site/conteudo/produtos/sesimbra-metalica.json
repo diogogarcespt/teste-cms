@@ -1,0 +1,137 @@
+{
+  "pt": {
+    "nome": "Sesimbra Metálica",
+    "ref": "306",
+    "gama": "tabuas",
+    "descricao": "Tábua de engomar com pousa-ferro para caldeira a vapor e ferro tradicional, tacos anti-derrapantes e tampo metálico perfurado.",
+    "caracteristicas": [
+      {
+        "texto": "Para caldeira a vapor e ferro tradicional"
+      },
+      {
+        "texto": "Tacos anti-derrapantes"
+      },
+      {
+        "texto": "Tampo metálico perfurado"
+      }
+    ],
+    "imagem": "/img/produtos/sesimbra-metalica.jpg",
+    "galeria": [
+      {
+        "imagem": "/img/produtos/sesimbra-metalica-d1.jpg"
+      },
+      {
+        "imagem": "/img/produtos/sesimbra-metalica-d2.jpg"
+      },
+      {
+        "imagem": "/img/produtos/sesimbra-metalica-d3.jpg"
+      }
+    ],
+    "ean": "5605233020570",
+    "peso": "7 kg",
+    "tampo": "120 × 42 cm",
+    "tubo": "30 × 20 mm",
+    "alturas": "60 / 90 cm",
+    "capa": "",
+    "pousaferro": "",
+    "caixa": "",
+    "unidades_caixa": "",
+    "unidades_palete": "",
+    "palete": "",
+    "contentor20": "",
+    "contentor40": "",
+    "tir": "",
+    "destaque": false,
+    "ordem": 18
+  },
+  "en": {
+    "nome": "Sesimbra Metálica",
+    "ref": "306",
+    "gama": "tabuas",
+    "descricao": "Ironing board with an iron rest for steam generators and traditional irons, non-slip feet and a perforated metal top.",
+    "caracteristicas": [
+      {
+        "texto": "For steam generators and traditional irons"
+      },
+      {
+        "texto": "Non-slip feet"
+      },
+      {
+        "texto": "Perforated metal top"
+      }
+    ],
+    "imagem": "/img/produtos/sesimbra-metalica.jpg",
+    "galeria": [
+      {
+        "imagem": "/img/produtos/sesimbra-metalica-d1.jpg"
+      },
+      {
+        "imagem": "/img/produtos/sesimbra-metalica-d2.jpg"
+      },
+      {
+        "imagem": "/img/produtos/sesimbra-metalica-d3.jpg"
+      }
+    ],
+    "ean": "5605233020570",
+    "peso": "7 kg",
+    "tampo": "120 × 42 cm",
+    "tubo": "30 × 20 mm",
+    "alturas": "60 / 90 cm",
+    "capa": "",
+    "pousaferro": "",
+    "caixa": "",
+    "unidades_caixa": "",
+    "unidades_palete": "",
+    "palete": "",
+    "contentor20": "",
+    "contentor40": "",
+    "tir": "",
+    "destaque": false,
+    "ordem": 18
+  },
+  "es": {
+    "nome": "Sesimbra Metálica",
+    "ref": "306",
+    "gama": "tabuas",
+    "descricao": "Tabla de planchar con posaplancha para centro de planchado y plancha tradicional, tacos antideslizantes y tablero metálico perforado.",
+    "caracteristicas": [
+      {
+        "texto": "Para centro de planchado y plancha tradicional"
+      },
+      {
+        "texto": "Tacos antideslizantes"
+      },
+      {
+        "texto": "Tablero metálico perforado"
+      }
+    ],
+    "imagem": "/img/produtos/sesimbra-metalica.jpg",
+    "galeria": [
+      {
+        "imagem": "/img/produtos/sesimbra-metalica-d1.jpg"
+      },
+      {
+        "imagem": "/img/produtos/sesimbra-metalica-d2.jpg"
+      },
+      {
+        "imagem": "/img/produtos/sesimbra-metalica-d3.jpg"
+      }
+    ],
+    "ean": "5605233020570",
+    "peso": "7 kg",
+    "tampo": "120 × 42 cm",
+    "tubo": "30 × 20 mm",
+    "alturas": "60 / 90 cm",
+    "capa": "",
+    "pousaferro": "",
+    "caixa": "",
+    "unidades_caixa": "",
+    "unidades_palete": "",
+    "palete": "",
+    "contentor20": "",
+    "contentor40": "",
+    "tir": "",
+    "destaque": false,
+    "ordem": 18
+  }
+}

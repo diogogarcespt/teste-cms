@@ -1,0 +1,137 @@
+{
+  "pt": {
+    "nome": "Santiago",
+    "ref": "203",
+    "gama": "tabuas",
+    "descricao": "Tábua de engomar com pousa-ferro para caldeira a vapor e ferro tradicional, tacos anti-derrapantes e tampo em rede.",
+    "caracteristicas": [
+      {
+        "texto": "Para caldeira a vapor e ferro tradicional"
+      },
+      {
+        "texto": "Tacos anti-derrapantes"
+      },
+      {
+        "texto": "Tampo em rede"
+      }
+    ],
+    "imagem": "/img/produtos/santiago.jpg",
+    "galeria": [
+      {
+        "imagem": "/img/produtos/santiago-d1.jpg"
+      },
+      {
+        "imagem": "/img/produtos/santiago-d2.jpg"
+      },
+      {
+        "imagem": "/img/produtos/santiago-d3.jpg"
+      }
+    ],
+    "ean": "5605233020068",
+    "peso": "5,5 kg",
+    "tampo": "120 × 38 cm",
+    "tubo": "30 × 20 mm",
+    "alturas": "60 / 90 cm",
+    "capa": "",
+    "pousaferro": "",
+    "caixa": "",
+    "unidades_caixa": "",
+    "unidades_palete": "",
+    "palete": "",
+    "contentor20": "",
+    "contentor40": "",
+    "tir": "",
+    "destaque": false,
+    "ordem": 12
+  },
+  "en": {
+    "nome": "Santiago",
+    "ref": "203",
+    "gama": "tabuas",
+    "descricao": "Ironing board with an iron rest for steam generators and traditional irons, non-slip feet and a mesh top.",
+    "caracteristicas": [
+      {
+        "texto": "For steam generators and traditional irons"
+      },
+      {
+        "texto": "Non-slip feet"
+      },
+      {
+        "texto": "Mesh top"
+      }
+    ],
+    "imagem": "/img/produtos/santiago.jpg",
+    "galeria": [
+      {
+        "imagem": "/img/produtos/santiago-d1.jpg"
+      },
+      {
+        "imagem": "/img/produtos/santiago-d2.jpg"
+      },
+      {
+        "imagem": "/img/produtos/santiago-d3.jpg"
+      }
+    ],
+    "ean": "5605233020068",
+    "peso": "5,5 kg",
+    "tampo": "120 × 38 cm",
+    "tubo": "30 × 20 mm",
+    "alturas": "60 / 90 cm",
+    "capa": "",
+    "pousaferro": "",
+    "caixa": "",
+    "unidades_caixa": "",
+    "unidades_palete": "",
+    "palete": "",
+    "contentor20": "",
+    "contentor40": "",
+    "tir": "",
+    "destaque": false,
+    "ordem": 12
+  },
+  "es": {
+    "nome": "Santiago",
+    "ref": "203",
+    "gama": "tabuas",
+    "descricao": "Tabla de planchar con posaplancha para centro de planchado y plancha tradicional, tacos antideslizantes y tablero de rejilla.",
+    "caracteristicas": [
+      {
+        "texto": "Para centro de planchado y plancha tradicional"
+      },
+      {
+        "texto": "Tacos antideslizantes"
+      },
+      {
+        "texto": "Tablero de rejilla"
+      }
+    ],
+    "imagem": "/img/produtos/santiago.jpg",
+    "galeria": [
+      {
+        "imagem": "/img/produtos/santiago-d1.jpg"
+      },
+      {
+        "imagem": "/img/produtos/santiago-d2.jpg"
+      },
+      {
+        "imagem": "/img/produtos/santiago-d3.jpg"
+      }
+    ],
+    "ean": "5605233020068",
+    "peso": "5,5 kg",
+    "tampo": "120 × 38 cm",
+    "tubo": "30 × 20 mm",
+    "alturas": "60 / 90 cm",
+    "capa": "",
+    "pousaferro": "",
+    "caixa": "",
+    "unidades_caixa": "",
+    "unidades_palete": "",
+    "palete": "",
+    "contentor20": "",
+    "contentor40": "",
+    "tir": "",
+    "destaque": false,
+    "ordem": 12
+  }
+}

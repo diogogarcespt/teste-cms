@@ -1,0 +1,137 @@
+{
+  "pt": {
+    "nome": "Cartaxo Modelo 1",
+    "ref": "124",
+    "gama": "tabuas",
+    "descricao": "Tábua de engomar com pousa-ferro metálico com silicones, tacos anti-derrapantes e tampo em rede.",
+    "caracteristicas": [
+      {
+        "texto": "Pousa-ferro metálico com silicones"
+      },
+      {
+        "texto": "Tacos anti-derrapantes"
+      },
+      {
+        "texto": "Tampo em rede"
+      }
+    ],
+    "imagem": "/img/produtos/cartaxo-1.jpg",
+    "galeria": [
+      {
+        "imagem": "/img/produtos/cartaxo-1-d1.jpg"
+      },
+      {
+        "imagem": "/img/produtos/cartaxo-1-d2.jpg"
+      },
+      {
+        "imagem": "/img/produtos/cartaxo-1-d3.jpg"
+      }
+    ],
+    "ean": "5605233000121",
+    "peso": "5,7 kg",
+    "tampo": "120 × 38 cm",
+    "tubo": "Ø 22 × 0,7 mm",
+    "alturas": "60 a 90 cm, manual, 4 posições",
+    "capa": "100% algodão + espuma",
+    "pousaferro": "Chapa pintada em epóxi",
+    "caixa": "48 × 5 × 150 cm",
+    "unidades_caixa": "1",
+    "unidades_palete": "40",
+    "palete": "120 × 80 × 162 cm",
+    "contentor20": "440",
+    "contentor40": "880",
+    "tir": "1320",
+    "destaque": true,
+    "ordem": 1
+  },
+  "en": {
+    "nome": "Cartaxo Modelo 1",
+    "ref": "124",
+    "gama": "tabuas",
+    "descricao": "Ironing board with a metal iron rest with silicone pads, non-slip feet and a mesh top.",
+    "caracteristicas": [
+      {
+        "texto": "Metal iron rest with silicone pads"
+      },
+      {
+        "texto": "Non-slip feet"
+      },
+      {
+        "texto": "Mesh top"
+      }
+    ],
+    "imagem": "/img/produtos/cartaxo-1.jpg",
+    "galeria": [
+      {
+        "imagem": "/img/produtos/cartaxo-1-d1.jpg"
+      },
+      {
+        "imagem": "/img/produtos/cartaxo-1-d2.jpg"
+      },
+      {
+        "imagem": "/img/produtos/cartaxo-1-d3.jpg"
+      }
+    ],
+    "ean": "5605233000121",
+    "peso": "5,7 kg",
+    "tampo": "120 × 38 cm",
+    "tubo": "Ø 22 × 0,7 mm",
+    "alturas": "60 to 90 cm, manual, 4 positions",
+    "capa": "100% cotton + foam",
+    "pousaferro": "Epoxy-painted steel",
+    "caixa": "48 × 5 × 150 cm",
+    "unidades_caixa": "1",
+    "unidades_palete": "40",
+    "palete": "120 × 80 × 162 cm",
+    "contentor20": "440",
+    "contentor40": "880",
+    "tir": "1320",
+    "destaque": true,
+    "ordem": 1
+  },
+  "es": {
+    "nome": "Cartaxo Modelo 1",
+    "ref": "124",
+    "gama": "tabuas",
+    "descricao": "Tabla de planchar con posaplancha metálico con silicona, tacos antideslizantes y tablero de rejilla.",
+    "caracteristicas": [
+      {
+        "texto": "Posaplancha metálico con silicona"
+      },
+      {
+        "texto": "Tacos antideslizantes"
+      },
+      {
+        "texto": "Tablero de rejilla"
+      }
+    ],
+    "imagem": "/img/produtos/cartaxo-1.jpg",
+    "galeria": [
+      {
+        "imagem": "/img/produtos/cartaxo-1-d1.jpg"
+      },
+      {
+        "imagem": "/img/produtos/cartaxo-1-d2.jpg"
+      },
+      {
+        "imagem": "/img/produtos/cartaxo-1-d3.jpg"
+      }
+    ],
+    "ean": "5605233000121",
+    "peso": "5,7 kg",
+    "tampo": "120 × 38 cm",
+    "tubo": "Ø 22 × 0,7 mm",
+    "alturas": "60 a 90 cm, manual, 4 posiciones",
+    "capa": "100% algodón + espuma",
+    "pousaferro": "Chapa pintada en epoxi",
+    "caixa": "48 × 5 × 150 cm",
+    "unidades_caixa": "1",
+    "unidades_palete": "40",
+    "palete": "120 × 80 × 162 cm",
+    "contentor20": "440",
+    "contentor40": "880",
+    "tir": "1320",
+    "destaque": true,
+    "ordem": 1
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "pt": {
+    "nome": "Estendal",
+    "ref": "125",
+    "gama": "estendais",
+    "descricao": "Estendal de chão, dobrável e fácil de guardar, com tacos anti-derrapantes e articulações resistentes.",
+    "caracteristicas": [
+      {
+        "texto": "Dobrável e fácil de guardar"
+      },
+      {
+        "texto": "Tacos anti-derrapantes"
+      },
+      {
+        "texto": "Articulações resistentes"
+      }
+    ],
+    "imagem": "/img/produtos/estendal.jpg",
+    "galeria": [
+      {
+        "imagem": "/img/produtos/estendal-d1.jpg"
+      },
+      {
+        "imagem": "/img/produtos/estendal-d2.jpg"
+      },
+      {
+        "imagem": "/img/produtos/estendal-d3.jpg"
+      }
+    ],
+    "ean": "5605233020091",
+    "peso": "3 kg",
+    "tampo": "",
+    "tubo": "Ø 16 × 0,6 mm",
+    "alturas": "",
+    "capa": "",
+    "pousaferro": "",
+    "caixa": "",
+    "unidades_caixa": "",
+    "unidades_palete": "",
+    "palete": "",
+    "contentor20": "",
+    "contentor40": "",
+    "tir": "",
+    "destaque": false,
+    "ordem": 22
+  },
+  "en": {
+    "nome": "Clothes dryer",
+    "ref": "125",
+    "gama": "estendais",
+    "descricao": "Foldable floor-standing clothes dryer, easy to store, with non-slip feet and sturdy joints.",
+    "caracteristicas": [
+      {
+        "texto": "Foldable and easy to store"
+      },
+      {
+        "texto": "Non-slip feet"
+      },
+      {
+        "texto": "Sturdy joints"
+      }
+    ],
+    "imagem": "/img/produtos/estendal.jpg",
+    "galeria": [
+      {
+        "imagem": "/img/produtos/estendal-d1.jpg"
+      },
+      {
+        "imagem": "/img/produtos/estendal-d2.jpg"
+      },
+      {
+        "imagem": "/img/produtos/estendal-d3.jpg"
+      }
+    ],
+    "ean": "5605233020091",
+    "peso": "3 kg",
+    "tampo": "",
+    "tubo": "Ø 16 × 0,6 mm",
+    "alturas": "",
+    "capa": "",
+    "pousaferro": "",
+    "caixa": "",
+    "unidades_caixa": "",
+    "unidades_palete": "",
+    "palete": "",
+    "contentor20": "",
+    "contentor40": "",
+    "tir": "",
+    "destaque": false,
+    "ordem": 22
+  },
+  "es": {
+    "nome": "Tendedero",
+    "ref": "125",
+    "gama": "estendais",
+    "descricao": "Tendedero de suelo, plegable y fácil de guardar, con tacos antideslizantes y articulaciones resistentes.",
+    "caracteristicas": [
+      {
+        "texto": "Plegable y fácil de guardar"
+      },
+      {
+        "texto": "Tacos antideslizantes"
+      },
+      {
+        "texto": "Articulaciones resistentes"
+      }
+    ],
+    "imagem": "/img/produtos/estendal.jpg",
+    "galeria": [
+      {
+        "imagem": "/img/produtos/estendal-d1.jpg"
+      },
+      {
+        "imagem": "/img/produtos/estendal-d2.jpg"
+      },
+      {
+        "imagem": "/img/produtos/estendal-d3.jpg"
+      }
+    ],
+    "ean": "5605233020091",
+    "peso": "3 kg",
+    "tampo": "",
+    "tubo": "Ø 16 × 0,6 mm",
+    "alturas": "",
+    "capa": "",
+    "pousaferro": "",
+    "caixa": "",
+    "unidades_caixa": "",
+    "unidades_palete": "",
+    "palete": "",
+    "contentor20": "",
+    "contentor40": "",
+    "tir": "",
+    "destaque": false,
+    "ordem": 22
+  }
+}

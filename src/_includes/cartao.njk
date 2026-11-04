@@ -1,4 +1,0 @@
-<a class="cartao" href="{{ p.url }}" data-gama="{{ p.data.gama | slugify }}">
-  <div class="foto">{% if p.data.imagem %}<img src="{{ p.data.imagem }}" alt="{{ p.data.title }}" loading="lazy">{% else %}<span>Sem foto</span>{% endif %}</div>
-  <div class="info"><small>Ref. {{ p.data.ref }} · {{ p.data.gama }}</small><h3>{{ p.data.title }}</h3><p>{{ p.data.descricao }}</p></div>
-</a>

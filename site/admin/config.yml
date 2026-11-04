@@ -1,0 +1,127 @@
+backend:
+  name: github
+  repo: diogogarcespt/teste-cms
+  branch: main
+
+locale: pt
+site_url: https://jocorsil-esboco.netlify.app
+media_folder: site/img/produtos
+public_folder: /img/produtos
+
+i18n:
+  structure: single_file
+  locales: [pt, en, es]
+  default_locale: pt
+
+collections:
+  - name: produtos
+    label: Produtos
+    label_singular: Produto
+    folder: site/conteudo/produtos
+    extension: json
+    format: json
+    create: true
+    i18n: true
+    identifier_field: nome
+    slug: "{{nome}}"
+    summary: "{{nome}} · Ref. {{ref}}"
+    sortable_fields: [nome, ref, ordem]
+    fields:
+      - { label: Nome, name: nome, widget: string, i18n: true }
+      - { label: Referência, name: ref, widget: string, required: false, i18n: duplicate }
+      - label: Gama
+        name: gama
+        widget: select
+        i18n: duplicate
+        options:
+          - { label: Tábuas de engomar, value: tabuas }
+          - { label: Estendais, value: estendais }
+          - { label: Artigos de campo, value: campo }
+          - { label: Opcionais, value: opcionais }
+      - { label: Descrição, name: descricao, widget: text, i18n: true }
+      - label: Características
+        name: caracteristicas
+        widget: list
+        i18n: true
+        required: false
+        fields: [{ label: Texto, name: texto, widget: string }]
+      - { label: Foto principal, name: imagem, widget: image, i18n: duplicate }
+      - label: Fotos de pormenor
+        name: galeria
+        widget: list
+        i18n: duplicate
+        required: false
+        fields: [{ label: Foto, name: imagem, widget: image }]
+      - { label: Mostrar em destaque na página inicial, name: destaque, widget: boolean, default: false, i18n: duplicate }
+      - { label: Ordem na lista, name: ordem, widget: number, value_type: int, required: false, i18n: duplicate }
+      - { label: "Técnico · Dimensões do tampo", name: tampo, widget: string, required: false, i18n: duplicate }
+      - { label: "Técnico · Peso", name: peso, widget: string, required: false, i18n: duplicate }
+      - { label: "Técnico · Tubo", name: tubo, widget: string, required: false, i18n: duplicate }
+      - { label: "Técnico · Alturas", name: alturas, widget: string, required: false, i18n: true }
+      - { label: "Técnico · Capa", name: capa, widget: string, required: false, i18n: true }
+      - { label: "Técnico · Pousa-ferro", name: pousaferro, widget: string, required: false, i18n: true }
+      - { label: "Técnico · Código EAN", name: ean, widget: string, required: false, i18n: duplicate }
+      - { label: "Logística · Dimensões da caixa", name: caixa, widget: string, required: false, i18n: duplicate }
+      - { label: "Logística · Unidades por caixa", name: unidades_caixa, widget: string, required: false, i18n: duplicate }
+      - { label: "Logística · Unidades por palete", name: unidades_palete, widget: string, required: false, i18n: duplicate }
+      - { label: "Logística · Dimensões da palete", name: palete, widget: string, required: false, i18n: duplicate }
+      - { label: "Logística · Contentor 20'", name: contentor20, widget: string, required: false, i18n: duplicate }
+      - { label: "Logística · Contentor 40'", name: contentor40, widget: string, required: false, i18n: duplicate }
+      - { label: "Logística · Camião TIR", name: tir, widget: string, required: false, i18n: duplicate }
+
+  - name: paginas
+    label: Textos das páginas
+    i18n: true
+    files:
+      - label: Página inicial
+        name: inicio
+        file: site/conteudo/paginas/inicio.json
+        format: json
+        i18n: true
+        fields:
+          - { label: Etiqueta do topo, name: etiqueta, widget: string, i18n: true }
+          - { label: Título principal, name: titulo, widget: string, i18n: true }
+          - { label: Subtítulo, name: subtitulo, widget: text, i18n: true }
+          - label: Números
+            name: numeros
+            widget: list
+            i18n: true
+            fields: [{ label: Valor, name: valor, widget: string }, { label: Texto, name: texto, widget: string }]
+          - { label: "Gamas · título", name: gamas_titulo, widget: string, i18n: true }
+          - { label: "Gamas · texto", name: gamas_texto, widget: text, i18n: true }
+          - { label: "Destaques · título", name: destaques_titulo, widget: string, i18n: true }
+          - { label: "Destaques · texto", name: destaques_texto, widget: text, i18n: true }
+          - { label: "Fabrico · título", name: fabrico_titulo, widget: string, i18n: true }
+          - { label: "Fabrico · texto", name: fabrico_texto, widget: text, i18n: true }
+          - label: "Fabrico · pontos"
+            name: pontos
+            widget: list
+            i18n: true
+            fields: [{ label: Título, name: titulo, widget: string }, { label: Texto, name: texto, widget: text }]
+          - { label: "Faixa final · título", name: faixa_titulo, widget: string, i18n: true }
+          - { label: "Faixa final · texto", name: faixa_texto, widget: text, i18n: true }
+      - label: Empresa
+        name: empresa
+        file: site/conteudo/paginas/empresa.json
+        format: json
+        i18n: true
+        fields:
+          - { label: Título, name: titulo, widget: string, i18n: true }
+          - { label: Introdução, name: introducao, widget: text, i18n: true }
+          - { label: "História · título", name: historia_titulo, widget: string, i18n: true }
+          - { label: "História · texto", name: historia, widget: text, i18n: true }
+          - { label: "Fabrico · título", name: fabrico_titulo, widget: string, i18n: true }
+          - { label: "Fabrico · texto", name: fabrico, widget: text, i18n: true }
+          - label: Valores
+            name: valores
+            widget: list
+            i18n: true
+            fields: [{ label: Título, name: titulo, widget: string }, { label: Texto, name: texto, widget: text }]
+      - label: Contactos
+        name: contactos
+        file: site/conteudo/paginas/contactos.json
+        format: json
+        i18n: true
+        fields:
+          - { label: Título, name: titulo, widget: string, i18n: true }
+          - { label: Introdução, name: introducao, widget: text, i18n: true }

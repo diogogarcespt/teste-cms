@@ -1,0 +1,137 @@
+{
+  "pt": {
+    "nome": "Cadeira Cretone Molas",
+    "ref": "102",
+    "gama": "campo",
+    "descricao": "Cadeira de campo desdobrável, fácil de montar, desmontar e guardar.",
+    "caracteristicas": [
+      {
+        "texto": "Dobrável e fácil de guardar"
+      },
+      {
+        "texto": "Articulações resistentes"
+      },
+      {
+        "texto": "Tacos anti-derrapantes"
+      }
+    ],
+    "imagem": "/img/produtos/cadeira-molas.jpg",
+    "galeria": [
+      {
+        "imagem": "/img/produtos/cadeira-molas-d1.jpg"
+      },
+      {
+        "imagem": "/img/produtos/cadeira-molas-d2.jpg"
+      },
+      {
+        "imagem": "/img/produtos/cadeira-molas-d3.jpg"
+      }
+    ],
+    "ean": "5605233020022",
+    "peso": "2,30 kg",
+    "tampo": "",
+    "tubo": "Ø 16 × 0,8 mm",
+    "alturas": "",
+    "capa": "",
+    "pousaferro": "",
+    "caixa": "",
+    "unidades_caixa": "",
+    "unidades_palete": "",
+    "palete": "",
+    "contentor20": "",
+    "contentor40": "",
+    "tir": "",
+    "destaque": false,
+    "ordem": 25
+  },
+  "en": {
+    "nome": "Cretonne Spring Chair",
+    "ref": "102",
+    "gama": "campo",
+    "descricao": "Folding camping chair, easy to set up, fold away and store.",
+    "caracteristicas": [
+      {
+        "texto": "Foldable and easy to store"
+      },
+      {
+        "texto": "Sturdy joints"
+      },
+      {
+        "texto": "Non-slip feet"
+      }
+    ],
+    "imagem": "/img/produtos/cadeira-molas.jpg",
+    "galeria": [
+      {
+        "imagem": "/img/produtos/cadeira-molas-d1.jpg"
+      },
+      {
+        "imagem": "/img/produtos/cadeira-molas-d2.jpg"
+      },
+      {
+        "imagem": "/img/produtos/cadeira-molas-d3.jpg"
+      }
+    ],
+    "ean": "5605233020022",
+    "peso": "2,30 kg",
+    "tampo": "",
+    "tubo": "Ø 16 × 0,8 mm",
+    "alturas": "",
+    "capa": "",
+    "pousaferro": "",
+    "caixa": "",
+    "unidades_caixa": "",
+    "unidades_palete": "",
+    "palete": "",
+    "contentor20": "",
+    "contentor40": "",
+    "tir": "",
+    "destaque": false,
+    "ordem": 25
+  },
+  "es": {
+    "nome": "Silla Cretona Muelles",
+    "ref": "102",
+    "gama": "campo",
+    "descricao": "Silla de camping plegable, fácil de montar, desmontar y guardar.",
+    "caracteristicas": [
+      {
+        "texto": "Plegable y fácil de guardar"
+      },
+      {
+        "texto": "Articulaciones resistentes"
+      },
+      {
+        "texto": "Tacos antideslizantes"
+      }
+    ],
+    "imagem": "/img/produtos/cadeira-molas.jpg",
+    "galeria": [
+      {
+        "imagem": "/img/produtos/cadeira-molas-d1.jpg"
+      },
+      {
+        "imagem": "/img/produtos/cadeira-molas-d2.jpg"
+      },
+      {
+        "imagem": "/img/produtos/cadeira-molas-d3.jpg"
+      }
+    ],
+    "ean": "5605233020022",
+    "peso": "2,30 kg",
+    "tampo": "",
+    "tubo": "Ø 16 × 0,8 mm",
+    "alturas": "",
+    "capa": "",
+    "pousaferro": "",
+    "caixa": "",
+    "unidades_caixa": "",
+    "unidades_palete": "",
+    "palete": "",
+    "contentor20": "",
+    "contentor40": "",
+    "tir": "",
+    "destaque": false,
+    "ordem": 25
+  }
+}

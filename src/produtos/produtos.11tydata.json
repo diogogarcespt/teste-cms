@@ -1,4 +1,0 @@
-{
-  "layout": "produto.njk",
-  "permalink": "/produtos/{{ page.fileSlug }}/"
-}

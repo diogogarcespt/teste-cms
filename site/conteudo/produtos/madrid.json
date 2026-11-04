@@ -1,0 +1,137 @@
+{
+  "pt": {
+    "nome": "Madrid",
+    "ref": "150",
+    "gama": "tabuas",
+    "descricao": "Tábua de engomar com pousa-ferro para caldeira a vapor e ferro tradicional, tabuleiro de roupa opcional e tampo em rede.",
+    "caracteristicas": [
+      {
+        "texto": "Para caldeira a vapor e ferro tradicional"
+      },
+      {
+        "texto": "Tabuleiro de roupa opcional"
+      },
+      {
+        "texto": "Tampo em rede"
+      }
+    ],
+    "imagem": "/img/produtos/madrid.jpg",
+    "galeria": [
+      {
+        "imagem": "/img/produtos/madrid-d1.jpg"
+      },
+      {
+        "imagem": "/img/produtos/madrid-d2.jpg"
+      },
+      {
+        "imagem": "/img/produtos/madrid-d3.jpg"
+      }
+    ],
+    "ean": "5605233001500",
+    "peso": "5,7 kg",
+    "tampo": "120 × 38 cm",
+    "tubo": "Ø 22 × 0,7 mm",
+    "alturas": "60 / 90 cm",
+    "capa": "",
+    "pousaferro": "",
+    "caixa": "",
+    "unidades_caixa": "",
+    "unidades_palete": "",
+    "palete": "",
+    "contentor20": "",
+    "contentor40": "",
+    "tir": "",
+    "destaque": false,
+    "ordem": 5
+  },
+  "en": {
+    "nome": "Madrid",
+    "ref": "150",
+    "gama": "tabuas",
+    "descricao": "Ironing board with an iron rest for steam generators and traditional irons, an optional linen tray and a mesh top.",
+    "caracteristicas": [
+      {
+        "texto": "For steam generators and traditional irons"
+      },
+      {
+        "texto": "Optional linen tray"
+      },
+      {
+        "texto": "Mesh top"
+      }
+    ],
+    "imagem": "/img/produtos/madrid.jpg",
+    "galeria": [
+      {
+        "imagem": "/img/produtos/madrid-d1.jpg"
+      },
+      {
+        "imagem": "/img/produtos/madrid-d2.jpg"
+      },
+      {
+        "imagem": "/img/produtos/madrid-d3.jpg"
+      }
+    ],
+    "ean": "5605233001500",
+    "peso": "5,7 kg",
+    "tampo": "120 × 38 cm",
+    "tubo": "Ø 22 × 0,7 mm",
+    "alturas": "60 / 90 cm",
+    "capa": "",
+    "pousaferro": "",
+    "caixa": "",
+    "unidades_caixa": "",
+    "unidades_palete": "",
+    "palete": "",
+    "contentor20": "",
+    "contentor40": "",
+    "tir": "",
+    "destaque": false,
+    "ordem": 5
+  },
+  "es": {
+    "nome": "Madrid",
+    "ref": "150",
+    "gama": "tabuas",
+    "descricao": "Tabla de planchar con posaplancha para centro de planchado y plancha tradicional, bandeja para ropa opcional y tablero de rejilla.",
+    "caracteristicas": [
+      {
+        "texto": "Para centro de planchado y plancha tradicional"
+      },
+      {
+        "texto": "Bandeja para ropa opcional"
+      },
+      {
+        "texto": "Tablero de rejilla"
+      }
+    ],
+    "imagem": "/img/produtos/madrid.jpg",
+    "galeria": [
+      {
+        "imagem": "/img/produtos/madrid-d1.jpg"
+      },
+      {
+        "imagem": "/img/produtos/madrid-d2.jpg"
+      },
+      {
+        "imagem": "/img/produtos/madrid-d3.jpg"
+      }
+    ],
+    "ean": "5605233001500",
+    "peso": "5,7 kg",
+    "tampo": "120 × 38 cm",
+    "tubo": "Ø 22 × 0,7 mm",
+    "alturas": "60 / 90 cm",
+    "capa": "",
+    "pousaferro": "",
+    "caixa": "",
+    "unidades_caixa": "",
+    "unidades_palete": "",
+    "palete": "",
+    "contentor20": "",
+    "contentor40": "",
+    "tir": "",
+    "destaque": false,
+    "ordem": 5
+  }
+}

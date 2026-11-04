@@ -1,0 +1,6 @@
+<a class="produto" href="{{ ('/produtos/' + item.slug + '/') | url_lang(lang) }}" data-gama="{{ item[lang].gama }}" data-busca="{{ (item[lang].nome + ' ' + item[lang].ref + ' ' + item.pt.nome) | lower }}">
+  <div class="img">{% if item[lang].ref %}<span class="ref">{{ i18n.ref[lang] | upper }} {{ item[lang].ref }}</span>{% endif %}<img src="{{ item[lang].imagem }}" alt="{{ item[lang].nome }}" loading="lazy"></div>
+  <div class="txt"><h3>{{ item[lang].nome }}</h3><p>{{ item[lang].descricao }}</p>
+    {%- if chips %}<div class="chips" style="margin-top:14px">{% if item[lang].tampo %}<span>{{ item[lang].tampo }}</span>{% endif %}{% if item[lang].peso %}<span>{{ item[lang].peso }}</span>{% endif %}</div>{% endif -%}
+  </div>
+</a>

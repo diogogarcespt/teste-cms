@@ -1,0 +1,137 @@
+{
+  "pt": {
+    "nome": "Viana Modelo 2",
+    "ref": "201",
+    "gama": "tabuas",
+    "descricao": "Tábua de engomar com pousa-ferro para caldeira a vapor e ferro tradicional, tacos anti-derrapantes e tampo metálico perfurado.",
+    "caracteristicas": [
+      {
+        "texto": "Para caldeira a vapor e ferro tradicional"
+      },
+      {
+        "texto": "Tacos anti-derrapantes"
+      },
+      {
+        "texto": "Tampo metálico perfurado"
+      }
+    ],
+    "imagem": "/img/produtos/viana-2.jpg",
+    "galeria": [
+      {
+        "imagem": "/img/produtos/viana-2-d1.jpg"
+      },
+      {
+        "imagem": "/img/produtos/viana-2-d2.jpg"
+      },
+      {
+        "imagem": "/img/produtos/viana-2-d3.jpg"
+      }
+    ],
+    "ean": "5605233020563",
+    "peso": "6,5 kg",
+    "tampo": "120 × 36 cm",
+    "tubo": "30 × 20 mm",
+    "alturas": "60 / 90 cm",
+    "capa": "",
+    "pousaferro": "",
+    "caixa": "",
+    "unidades_caixa": "",
+    "unidades_palete": "",
+    "palete": "",
+    "contentor20": "",
+    "contentor40": "",
+    "tir": "",
+    "destaque": false,
+    "ordem": 11
+  },
+  "en": {
+    "nome": "Viana Modelo 2",
+    "ref": "201",
+    "gama": "tabuas",
+    "descricao": "Ironing board with an iron rest for steam generators and traditional irons, non-slip feet and a perforated metal top.",
+    "caracteristicas": [
+      {
+        "texto": "For steam generators and traditional irons"
+      },
+      {
+        "texto": "Non-slip feet"
+      },
+      {
+        "texto": "Perforated metal top"
+      }
+    ],
+    "imagem": "/img/produtos/viana-2.jpg",
+    "galeria": [
+      {
+        "imagem": "/img/produtos/viana-2-d1.jpg"
+      },
+      {
+        "imagem": "/img/produtos/viana-2-d2.jpg"
+      },
+      {
+        "imagem": "/img/produtos/viana-2-d3.jpg"
+      }
+    ],
+    "ean": "5605233020563",
+    "peso": "6,5 kg",
+    "tampo": "120 × 36 cm",
+    "tubo": "30 × 20 mm",
+    "alturas": "60 / 90 cm",
+    "capa": "",
+    "pousaferro": "",
+    "caixa": "",
+    "unidades_caixa": "",
+    "unidades_palete": "",
+    "palete": "",
+    "contentor20": "",
+    "contentor40": "",
+    "tir": "",
+    "destaque": false,
+    "ordem": 11
+  },
+  "es": {
+    "nome": "Viana Modelo 2",
+    "ref": "201",
+    "gama": "tabuas",
+    "descricao": "Tabla de planchar con posaplancha para centro de planchado y plancha tradicional, tacos antideslizantes y tablero metálico perforado.",
+    "caracteristicas": [
+      {
+        "texto": "Para centro de planchado y plancha tradicional"
+      },
+      {
+        "texto": "Tacos antideslizantes"
+      },
+      {
+        "texto": "Tablero metálico perforado"
+      }
+    ],
+    "imagem": "/img/produtos/viana-2.jpg",
+    "galeria": [
+      {
+        "imagem": "/img/produtos/viana-2-d1.jpg"
+      },
+      {
+        "imagem": "/img/produtos/viana-2-d2.jpg"
+      },
+      {
+        "imagem": "/img/produtos/viana-2-d3.jpg"
+      }
+    ],
+    "ean": "5605233020563",
+    "peso": "6,5 kg",
+    "tampo": "120 × 36 cm",
+    "tubo": "30 × 20 mm",
+    "alturas": "60 / 90 cm",
+    "capa": "",
+    "pousaferro": "",
+    "caixa": "",
+    "unidades_caixa": "",
+    "unidades_palete": "",
+    "palete": "",
+    "contentor20": "",
+    "contentor40": "",
+    "tir": "",
+    "destaque": false,
+    "ordem": 11
+  }
+}
