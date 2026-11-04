@@ -49,7 +49,7 @@ collections:
       - label: Fotos de pormenor
         name: galeria
         widget: list
-        i18n: duplicate
+        i18n: false
         required: false
         fields: [{ label: Foto, name: imagem, widget: image }]
       - { label: Mostrar em destaque na página inicial, name: destaque, widget: boolean, default: false, i18n: duplicate }

@@ -9,7 +9,7 @@ eleventyComputed:
   titulo: "{{ f.p.nome }}"
   descricao: "{{ f.p.descricao }}"
 ---
-{%- set T = i18n -%}{%- set p = f.p -%}{%- set lang = f.lang -%}
+{%- set T = i18n -%}{%- set p = f.p -%}{%- set lang = f.lang -%}{%- set galeria = f.todos.pt.galeria -%}
 {%- set gama = gamas | gama_por_id(p.gama) -%}
 <div class="ficha">
   <div class="wrap">
@@ -17,10 +17,10 @@ eleventyComputed:
     <div class="ficha-grid">
       <div class="galeria">
         <div class="principal"><img id="foto" src="{{ p.imagem }}" alt="{{ p.nome }}"></div>
-        {%- if p.galeria and p.galeria.length %}
+        {%- if galeria and galeria.length %}
         <div class="miniaturas">
           <button class="ativo" data-src="{{ p.imagem }}"><img src="{{ p.imagem }}" alt=""></button>
-          {%- for g in p.galeria %}<button data-src="{{ g.imagem }}"><img src="{{ g.imagem }}" alt=""></button>{% endfor %}
+          {%- for g in galeria %}<button data-src="{{ g.imagem }}"><img src="{{ g.imagem }}" alt=""></button>{% endfor %}
         </div>
         {%- endif %}
       </div>
